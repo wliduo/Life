@@ -184,3 +184,6 @@
 {% endif %}
 
 {% include 'head/custom-head.swig' %}
+
+<script src="http://instantclick.io/v3.1.0/instantclick.min.js" data-no-instant></script>
+<script data-no-instant>InstantClick.init();</script>

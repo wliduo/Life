@@ -101,16 +101,21 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/DIYgod || github
-  Twitter: https://twitter.com/DIYgod || twitter
-  QQ 群: /images/qq-g.jpg || qq || qq
-  Telegram Channel: https://t.me/awesomeDIYgod || telegram
-  更多: https://www.anotherhome.net/3163 || more
+  GitHub: https://github.com/wang926454
+  CSDN: https://blog.csdn.net/wang926454
+  Gitee: https://gitee.com/wang926454
+  Weibo: https://weibo.com/wang926454
+  more: https://wang64.cn
 
 social_icons:
   enable: true
   icons_only: true
   transition: false
+  GitHub: github
+  Gitee: git
+  CSDN: codiepie
+  Weibo: weibo
+  more: ellipsis-h
 
 # Blog rolls
 links_icon: link
@@ -332,7 +337,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: diygod-me
   count: false
 

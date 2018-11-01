@@ -50,7 +50,7 @@
                 <span class="links-of-author-item">
                   <a href="{{ link.split('||')[0] | trim }}" target="_blank" title="{{ name }}" data-balloon="{{ name }}" data-balloon-pos="up">
                     {% if theme.social_icons.enable %}
-                      <i class="fa fa-fw fa-{{ link.split('||')[1] | trim | default('globe') }}"></i>{#
+                      <i class="fa fa-fw fa-{{ theme.social_icons[name] | trim | default('globe') }}"></i>{#
                   #}{% endif %}{#
                     #}{% if not theme.social_icons.icons_only %}{#
                       #}{{ name }}{#
@@ -109,15 +109,6 @@
             #}
 
           </nav>
-
-          {% set cc = {'by': 1, 'by-nc': 1, 'by-nc-nd': 1, 'by-nc-sa': 1, 'by-nd': 1, 'by-sa': 1, 'zero': 1} %}
-          {% if theme.creative_commons in cc %}
-            <div class="cc-license motion-element" itemprop="license">
-              <a href="https://creativecommons.org/{% if theme.creative_commons === 'zero' %}publicdomain/zero/1.0{% else %}licenses/{{ theme.creative_commons }}/4.0{% endif %}/" class="cc-opacity" target="_blank">
-                <img src="{{ url_for(theme.images) }}/cc-{{ theme.creative_commons }}.png" alt="Creative Commons" />
-              </a>
-            </div>
-          {% endif %}
 
           {# Blogroll #}
           {#
