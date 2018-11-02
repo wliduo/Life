@@ -30,12 +30,12 @@
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             {% if theme.avatar %}
-              <img class="site-author-image" itemprop="image"
+              <img id="authorImage" class="site-author-image" itemprop="image"
                 src="{{ url_for( theme.card.avatar | default(theme.images + '/card.jpg') ) }}"
                 alt="{{ theme.author }}" />
             {% endif %}
               <p class="site-author-name" itemprop="name">{{ theme.card.name }}</p>
-              <p class="site-description motion-element" itemprop="description">{#
+              <p id="authorText" class="site-description motion-element" itemprop="description">{#
             #}{% if theme.seo %}{#
               #}{{ theme.signature }}{#
             #}{% else %}{#

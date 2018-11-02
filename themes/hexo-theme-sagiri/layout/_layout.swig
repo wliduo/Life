@@ -201,6 +201,24 @@
     // 默认关闭歌词
     ap.lrc.toggle();
     $(".aplayer-icon-lrc").addClass("aplayer-icon-lrc-inactivity");
+    
+    // 3秒变化一次壁纸
+    var imageUrls = ['https://res.wang64.cn/Image/201811/normal/01020.png',
+                  'https://res.wang64.cn/Image/201811/normal/01025.png',
+                  'https://res.wang64.cn/Image/201810/normal/20010.png'];
+    var indexImage = document.getElementById('indexImage');
+    // 推荐使用setTimeout
+    setTimeout(function () {
+      indexImage = document.getElementById('indexImage');
+      indexImage.style.backgroundImage = "url(" + imageUrls[Math.floor(imageUrls.length * Math.random())] + ")";
+      setTimeout(arguments.callee, 3000);
+    }, 3000);
+
+    // 头像改变
+    $("#authorImage").on("click",function(){
+      $("#authorImage").attr("src", "/images/card.jpg");
+      $("#authorText").html("居然被你发现了~o(*////▽////*)o");
+    });
   </script>
 </body>
 </html>
