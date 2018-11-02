@@ -22,15 +22,15 @@ favicon:
   visibilitychange: true
   narmal: /images/favicon.ico
   hidden: /images/failure.ico
-  show_text: (/≧▽≦/)咦！又好了！
-  hide_text: (●—●)喔哟，崩溃啦！
+  show_text: (≧▽≦)咦~又好了~
+  hide_text: (●—●)哎呦~崩溃啦~
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "DIYgod,blog"
+keywords: "wang926454,blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -64,6 +64,7 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
+  sitemap: https://wang64.cn || home
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -78,6 +79,7 @@ menu_icons:
   categories: list
   tags: tags
   about: magnet
+  sitemap: paper-plane-o
 
 
 # ---------------------------------------------------------------
@@ -105,7 +107,7 @@ social:
   CSDN: https://blog.csdn.net/wang926454
   Gitee: https://gitee.com/wang926454
   Weibo: https://weibo.com/wang926454
-  more: https://wang64.cn
+  More: https://wang64.cn
 
 social_icons:
   enable: true
@@ -115,7 +117,7 @@ social_icons:
   Gitee: git
   CSDN: codiepie
   Weibo: weibo
-  more: ellipsis-h
+  More: ellipsis-h
 
 # Blog rolls
 links_icon: link

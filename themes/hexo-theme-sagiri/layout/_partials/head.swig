@@ -185,5 +185,5 @@
 
 {% include 'head/custom-head.swig' %}
 
-<script src="http://instantclick.io/v3.1.0/instantclick.min.js" data-no-instant></script>
+<script src="https://cdn.jsdelivr.net/npm/instantclick@3.1.0-2/dist/instantclick.min.js" data-no-instant></script>
 <script data-no-instant>InstantClick.init();</script>

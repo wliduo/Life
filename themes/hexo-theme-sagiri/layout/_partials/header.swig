@@ -6,12 +6,21 @@
       {% for name, path in theme.menu %}
         {% set itemName = name.toLowerCase() %}
         <li class="menu-item menu-item-{{ itemName | replace(' ', '-') }}">
-          <a href="{{ url_for(path.split('||')[0]) | trim }}" rel="section">
-            {% if theme.menu_icons.enable %}
-              <i class="menu-item-icon fa fa-fw fa-{{ theme.menu_icons[itemName] | trim | default('question-circle') }}"></i> <br />
-            {% endif %}
-            {{ __('menu.' + name) | replace('menu.', '') }}
-          </a>
+          {% if itemName === 'sitemap' %}
+            <a href="{{ url_for(path.split('||')[0]) | trim }}" rel="section" target="_blank">
+              {% if theme.menu_icons.enable %}
+                <i class="menu-item-icon fa fa-fw fa-{{ theme.menu_icons[itemName] | trim | default('question-circle') }}"></i> <br />
+              {% endif %}
+              {{ __('menu.' + name) | replace('menu.', '') }}
+            </a>
+          {% else %}
+            <a href="{{ url_for(path.split('||')[0]) | trim }}" rel="section">
+              {% if theme.menu_icons.enable %}
+                <i class="menu-item-icon fa fa-fw fa-{{ theme.menu_icons[itemName] | trim | default('question-circle') }}"></i> <br />
+              {% endif %}
+              {{ __('menu.' + name) | replace('menu.', '') }}
+            </a>
+          {% endif %}
         </li>
       {% endfor %}
 
