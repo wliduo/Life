@@ -1,4 +1,4 @@
-<p>已萌萌哒运行<span id="since"></span><span class="my-face">(●'◡'●)ﾉ♥</span></p>
+<p>已萌萌哒运行<span id="since"></span><span id="myFace" class="my-face">(●'◡'●)ﾉ♥</span></p>
 <p>{{ theme.footer.custom_text }}</p>
 {% set current = date(Date.now(), "YYYY") %}
 <p>© <span itemprop="copyrightYear">{{ current }}</span> {{ config.title }}.

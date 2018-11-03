@@ -44,7 +44,7 @@
     </main>
 
     <footer id="footer" class="footer">
-      <div class="footer-image"></div>
+      <div id="footerImage" class="footer-image" style="display: none;"></div>
       <div class="footer-inner">
         {% include '_partials/footer.swig' %}
         {% include '_third-party/analytics/analytics-with-widget.swig' %}
@@ -215,9 +215,36 @@
     }, 3000);
 
     // 头像改变
+    var status = 1;
     $("#authorImage").on("click",function(){
-      $("#authorImage").attr("src", "/images/card.jpg");
-      $("#authorText").html("居然被你发现了~o(*////▽////*)o");
+      if(status == 1){
+        $("#authorImage").attr("src", "/images/card.jpg");
+        $("#authorText").html("居然被你发现了~o(*////▽////*)o");
+        $("#main").css("padding-bottom", "350px");
+        $("#footerImage").css("display", "");
+        status = 0
+      }else{
+        $("#authorImage").attr("src", "https://res.wang64.cn/Image/201810/normal/20025.png");
+        $("#authorText").html("只想每天开心的像个孩子");
+        $("#main").css("padding-bottom", "130px");
+        $("#footerImage").css("display", "none");
+        status = 1
+      }
+    });
+    $("#myFace").on("click",function(){
+      if(status == 1){
+        $("#authorImage").attr("src", "/images/card.jpg");
+        $("#authorText").html("居然被你发现了~o(*////▽////*)o");
+        $("#main").css("padding-bottom", "350px");
+        $("#footerImage").css("display", "");
+        status = 0
+      }else{
+        $("#authorImage").attr("src", "https://res.wang64.cn/Image/201810/normal/20025.png");
+        $("#authorText").html("只想每天开心的像个孩子");
+        $("#main").css("padding-bottom", "130px");
+        $("#footerImage").css("display", "none");
+        status = 1
+      }
     });
   </script>
 </body>
