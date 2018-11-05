@@ -205,7 +205,9 @@
     // 3秒变化一次壁纸
     var imageUrls = ['https://res.wang64.cn/Image/201810/normal/20010.png',
                   'https://res.wang64.cn/Image/201811/normal/02015.png',
-                  'https://res.wang64.cn/Image/201811/normal/01020.png'];
+                  'https://res.wang64.cn/Image/201811/normal/05020.png',
+                  'https://res.wang64.cn/Image/201811/normal/05005.png',
+                  'https://res.wang64.cn/Image/201811/normal/05030.png'];
     var indexImage = document.getElementById('indexImage');
     // 推荐使用setTimeout
     setTimeout(function () {
@@ -216,21 +218,6 @@
 
     // 头像改变
     var status = 1;
-    $("#authorImage").on("click",function(){
-      if(status == 1){
-        $("#authorImage").attr("src", "/images/card.jpg");
-        $("#authorText").html("居然被你发现了~o(*////▽////*)o");
-        $("#main").css("padding-bottom", "350px");
-        $("#footerImage").css("display", "");
-        status = 0
-      }else{
-        $("#authorImage").attr("src", "https://res.wang64.cn/Image/201810/normal/20025.png");
-        $("#authorText").html("只想每天开心的像个孩子");
-        $("#main").css("padding-bottom", "130px");
-        $("#footerImage").css("display", "none");
-        status = 1
-      }
-    });
     $("#myFace").on("click",function(){
       if(status == 1){
         $("#authorImage").attr("src", "/images/card.jpg");
