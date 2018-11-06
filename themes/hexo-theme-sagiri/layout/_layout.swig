@@ -84,6 +84,8 @@
   {% include '_third-party/exturl.swig' %}
   {{ live2d() }}
   <script>
+    function ga(){}
+
     const ap = new APlayer({
       container: document.getElementById('aplayer'),
       fixed: true,
