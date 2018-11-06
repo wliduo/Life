@@ -88,6 +88,11 @@ live2d:
   #className: <canvas> 元素的类名 默认值： live2d
   #id: mylive 元素的id 默认值： live2dcanvas
 
+lazyload:
+  enable: true 
+  onlypost: false
+  # loadingImg: ./images/loading.png
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
