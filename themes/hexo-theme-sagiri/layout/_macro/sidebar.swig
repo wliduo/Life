@@ -63,7 +63,7 @@
 
           {% if theme.rss %}
             <div class="feed-link motion-element">
-              <a href="{{ url_for(theme.rss) }}" rel="alternate">
+              <a href="http://note.wang64.cn/atom.xml" rel="alternate" target="_blank">
                 <i class="fa fa-rss"></i>
                 RSS
               </a>
