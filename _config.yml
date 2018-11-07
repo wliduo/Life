@@ -93,6 +93,8 @@ lazyload:
   onlypost: false
   # loadingImg: ./images/loading.png
 
+rss: atom.xml
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
