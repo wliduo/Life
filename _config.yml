@@ -95,6 +95,12 @@ lazyload:
 
 rss: atom.xml
 
+# hexo-admin authentification
+admin:
+  username: wang926454
+  password_hash: $2a$10$KOBBkj/AsRtFfDMxqKAdMeP7l9Zs2TnYuny7NcMi2vq5xGCHCjhGW
+  secret: 随心
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
