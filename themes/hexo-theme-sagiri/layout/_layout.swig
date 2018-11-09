@@ -12,6 +12,11 @@
   <style> #live2dcanvas { left: -10px!important; bottom: 30px!important; }</style>
   {% include '_third-party/analytics/index.swig' %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+  <style>
+    .aplayer.aplayer-fixed .aplayer-lrc {
+      text-shadow: none;
+    }
+  </style>
   <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
 </head>
 
