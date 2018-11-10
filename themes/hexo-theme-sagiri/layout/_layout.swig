@@ -119,6 +119,9 @@
       setTimeout(arguments.callee, 5000);
     }, 3000);
 
+    // 隐藏Live2D
+    $("#live2dcanvas").css("display", "none");
+
     // 头像改变
     var status = 1;
     $("#myFace").on("click",function(){
@@ -127,12 +130,14 @@
         $("#authorText").html("居然被你发现了~o(*////▽////*)o");
         $("#main").css("padding-bottom", "350px");
         $("#footerImage").css("display", "");
+        $("#live2dcanvas").css("display", "");
         status = 0
       }else{
         $("#authorImage").attr("src", "https://res.wang64.cn/Image/201810/normal/20025.png");
         $("#authorText").html("只想每天开心的像个孩子");
         $("#main").css("padding-bottom", "130px");
         $("#footerImage").css("display", "none");
+        $("#live2dcanvas").css("display", "none");
         status = 1
       }
     });
