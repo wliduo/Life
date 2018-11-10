@@ -57,6 +57,6 @@ photos:
 
 > 你没有领先(You’re not Early)
 
-> 在命运为你安排的属于自己的时区里，一切都准时(You are very much on Time, and in your Time Zone Destiny set up for you)
+> **在命运为你安排的属于自己的时区里，一切都准时(You are very much on Time, and in your Time Zone Destiny set up for you)**
 
 -----
