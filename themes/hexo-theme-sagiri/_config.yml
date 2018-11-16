@@ -124,12 +124,12 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  DIYgos: https://diygod.me || https://diygod.me/images/DIYgod.jpg || Hi, DIYgod
+  DIYgos: https://diygod.me || https://wang926454.gitee.io/reader/Image/headt.png || Hi, DIYgod
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: /images/DIYgod.jpg
+avatar: https://wang926454.gitee.io/reader/Image/headt.png
 
 # Table Of Contents in the Sidebar
 toc:
@@ -774,10 +774,10 @@ css: css
 js: js
 images: images
 
-header_bg: /images/header-sagiri.jpg
+header_bg: https://wang926454.gitee.io/reader/Image/201810/normal/20010.png
 
 card:
-  avatar: https://res.wang64.cn/Image/201810/normal/20025.png
+  avatar: https://wang926454.gitee.io/reader/Image/201810/normal/20025.png
   name: 
   description: 只想每天开心的像个孩子
 

@@ -26,6 +26,6 @@ tags: Article
 
 *From [时文博览](https://blog.csdn.net/wang926454/article/details/53322461)*
 
-![image text](https://res.wang64.cn/Image/201810/normal/13005.png)
+![image text](https://wang926454.gitee.io/reader/Image/201810/normal/13005.png)
 
 -----

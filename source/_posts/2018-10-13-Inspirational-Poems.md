@@ -5,8 +5,8 @@ date: 2018-10-13 15:18:18
 category: Article
 tags: Article
 photos: 
-- https://res.wang64.cn/Image/201810/normal/10010.png
-- https://res.wang64.cn/Image/201810/normal/13005.png
+- https://wang926454.gitee.io/reader/Image/201810/normal/10010.png
+- https://wang926454.gitee.io/reader/Image/201810/normal/13005.png
 ---
 
 -----

@@ -66,6 +66,6 @@ type: about
 
 -----
 
-![image text](https://res.wang64.cn/Image/201810/normal/10010.png)
+![image text](https://wang926454.gitee.io/reader/Image/201810/normal/10010.png)
 
 -----

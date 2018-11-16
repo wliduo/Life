@@ -88,7 +88,7 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
   {{ live2d() }}
-  <script type="text/javascript" src="https://res.wang64.cn/JS/aplist.js"></script>
+  <script type="text/javascript" src="https://wang926454.gitee.io/reader/JS/aplist.js"></script>
   <script>
     function ga(){}
 
@@ -106,11 +106,11 @@
     $(".aplayer-icon-lrc").addClass("aplayer-icon-lrc-inactivity");
     
     // 3秒变化一次壁纸
-    var imageUrls = ['https://res.wang64.cn/Image/201810/normal/20010.png',
-                  'https://res.wang64.cn/Image/201811/normal/02015.png',
-                  'https://res.wang64.cn/Image/201811/normal/05020.png',
-                  'https://res.wang64.cn/Image/201811/normal/05005.png',
-                  'https://res.wang64.cn/Image/201811/normal/05030.png'];
+    var imageUrls = ['https://wang926454.gitee.io/reader/Image/201810/normal/20010.png',
+                  'https://wang926454.gitee.io/reader/Image/201811/normal/02015.png',
+                  'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png',
+                  'https://wang926454.gitee.io/reader/Image/201811/normal/05005.png',
+                  'https://wang926454.gitee.io/reader/Image/201811/normal/05030.png'];
     var indexImage = document.getElementById('indexImage');
     // 推荐使用setTimeout
     setTimeout(function () {
@@ -126,14 +126,14 @@
     var status = 1;
     $("#myFace").on("click",function(){
       if(status == 1){
-        $("#authorImage").attr("src", "/images/card.jpg");
+        $("#authorImage").attr("src", "https://wang926454.gitee.io/reader/Image/201811/normal/02005.png");
         $("#authorText").html("居然被你发现了~o(*////▽////*)o");
         $("#main").css("padding-bottom", "350px");
         $("#footerImage").css("display", "");
         $("#live2dcanvas").css("display", "");
         status = 0
       }else{
-        $("#authorImage").attr("src", "https://res.wang64.cn/Image/201810/normal/20025.png");
+        $("#authorImage").attr("src", "https://wang926454.gitee.io/reader/Image/201810/normal/20025.png");
         $("#authorText").html("只想每天开心的像个孩子");
         $("#main").css("padding-bottom", "130px");
         $("#footerImage").css("display", "none");
@@ -143,6 +143,6 @@
     });
   </script>
   <!-- 页面点击小红心 -->
-  <script type="text/javascript" src="https://res.wang64.cn/JS/love.js"></script>
+  <script type="text/javascript" src="https://wang926454.gitee.io/reader/JS/love.js"></script>
 </body>
 </html>
