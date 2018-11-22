@@ -24,8 +24,8 @@ favicon:
   hidden: /images/failure.ico
   show_text: (≧▽≦)咦~又好了~
   hide_text: (●—●)哎呦~崩溃啦~
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  apple_touch_icon: /images/DIYgod.jpg
+  safari_pinned_tab: /images/failure.ico
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
