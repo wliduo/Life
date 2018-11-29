@@ -9,7 +9,7 @@
 <head>
   {% include '_partials/head.swig' %}
   <title>{% block title %}{% endblock %}</title>
-  <style> #live2dcanvas { left: -10px!important; bottom: 30px!important; }</style>
+  <style> #live2dcanvas { left: -10px!important; bottom: 280px!important; }</style>
   {% include '_third-party/analytics/index.swig' %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
   <style>

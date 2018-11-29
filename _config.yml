@@ -83,8 +83,8 @@ theme: hexo-theme-sagiri
 #live2d宠物 https://www.jianshu.com/p/4b61d8702cfa
 live2d:
   model: koharu
-  width: 200
-  height: 400
+  width: 180
+  height: 360
   #className: <canvas> 元素的类名 默认值： live2d
   #id: mylive 元素的id 默认值： live2dcanvas
 
