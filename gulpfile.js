@@ -27,7 +27,7 @@ gulp.task('minify-css', function() {
 });
 // 压缩js
 gulp.task('minify-js', function() {
-    return gulp.src('./docs/**/*.js')
+    return gulp.src(['./docs/**/*.js', '!./docs/js/index.js'])
         .pipe(uglify())
         .pipe(gulp.dest('./docs'));
 });

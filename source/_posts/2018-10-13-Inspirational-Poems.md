@@ -1,9 +1,10 @@
 ---
 title: 励志的小诗
 description: 时间是一位伟大的作者，它必将写出完美的答案
-date: 2018-10-13 15:18:18
+layout: post
 category: Article
 tags: Article
+date: 2018-10-13 15:18:18
 photos: 
 - https://wang926454.gitee.io/reader/Image/201810/normal/10010.png
 - https://wang926454.gitee.io/reader/Image/201810/normal/13005.png

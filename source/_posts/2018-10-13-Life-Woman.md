@@ -1,9 +1,10 @@
 ---
 title: 我的人生不能将就(女)
 description: 我的人生不能将就(女)
-date: 2018-10-13 21:18:18
+layout: post
 category: Life
 tags: Life
+date: 2018-10-13 21:18:18
 ---
 
 -----
