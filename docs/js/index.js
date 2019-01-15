@@ -29,12 +29,14 @@ if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE 
 // 变化一次壁纸
 var imageUrls = ['https://wang926454.gitee.io/reader/Image/201810/normal/20010.png',
               'https://wang926454.gitee.io/reader/Image/201811/normal/02015.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/05005.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/05030.png'];
+              'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png'];
 var indexImage = document.getElementById('indexImage');
-indexImage = document.getElementById('indexImage');
-indexImage.style.backgroundImage = "url(" + imageUrls[Math.floor(imageUrls.length * Math.random())] + ")";
+var img = new Image();
+var url = imageUrls[Math.floor(imageUrls.length * Math.random())];
+img.src = url;
+img.onload = function () {
+  indexImage.style.backgroundImage = "url(" + url + ")";
+}
     
 // 3秒变化一次壁纸 推荐使用setTimeout
 /* setTimeout(function () {
