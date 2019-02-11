@@ -6,7 +6,6 @@ const ap = new APlayer({
   lrcType: 3,
   order: 'random',
   theme: '#000000',
-  volume: 2.0,
   audio: getLove()
 });
 
@@ -29,7 +28,9 @@ if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE 
 // 变化一次壁纸
 var imageUrls = ['https://wang926454.gitee.io/reader/Image/201810/normal/20010.png',
               'https://wang926454.gitee.io/reader/Image/201811/normal/02015.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png'];
+              'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png',
+              'https://wang926454.gitee.io/reader/Image/201812/normal/23005.png',
+              'https://wang926454.gitee.io/reader/Image/201901/normal/16005.png'];
 var indexImage = document.getElementById('indexImage');
 var img = new Image();
 var url = imageUrls[Math.floor(imageUrls.length * Math.random())];
