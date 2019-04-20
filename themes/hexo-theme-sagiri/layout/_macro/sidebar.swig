@@ -95,6 +95,7 @@
                 {% if hasCategoriesPage %}</a>{% endif %}
               </div>
             {% endif %}
+
             {#
             {% if site.tags.length > 0 %}
               {% set tagsPageQuery = site.pages.find({type: 'tags'}, {lean: true}) %}
@@ -107,6 +108,14 @@
               </div>
             {% endif %}
             #}
+
+            <div class="site-state-item site-state-tags">
+              {% set tagsPageQuery = site.pages.find({type: 'tags'}, {lean: true}) %}
+              <a href="{{ url_for(tagsPageQuery[0].path) }}">
+                <span class="site-state-item-count">{{ site.tags.length }}</span>
+                <span class="site-state-item-name">{{ __('state.tags') }}</span>
+              </a>
+            </div>
 
           </nav>
 
