@@ -6,7 +6,7 @@
       {% for name, path in theme.menu %}
         {% set itemName = name.toLowerCase() %}
         <li class="menu-item menu-item-{{ itemName | replace(' ', '-') }}">
-          {% if itemName === 'sitemap' %}
+          {% if itemName === 'sitemap' or itemName === 'msg' %}
             <a href="{{ url_for(path.split('||')[0]) | trim }}" rel="section" target="_blank">
               {% if theme.menu_icons.enable %}
                 <i class="menu-item-icon fa fa-fw fa-{{ theme.menu_icons[itemName] | trim | default('question-circle') }}"></i> <br />

@@ -65,6 +65,8 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   sitemap: https://wang64.cn/go?url=https://wang64.cn || home
+  msg: https://wang64.cn/go?url=https://msg.wang64.cn || msg
+  theme: https://wang64.cn/go?url=https://blog.wang64.cn || theme
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -80,6 +82,8 @@ menu_icons:
   tags: tags
   about: magnet
   sitemap: paper-plane-o
+  msg: paw
+  theme: cogs
 
 
 # ---------------------------------------------------------------
@@ -103,10 +107,14 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/wang926454
-  CSDN: https://blog.csdn.net/wang926454
-  Gitee: https://gitee.com/wang926454
-  Weibo: https://weibo.com/wang926454
+  # GitHub: https://github.com/wang926454
+  # CSDN: https://blog.csdn.net/wang926454
+  # Gitee: https://gitee.com/wang926454
+  # Weibo: https://weibo.com/wang926454
+  Mark: https://wang64.cn/go?url=https://mark.wang64.cn
+  Link: https://wang64.cn/go?url=https://link.wang64.cn
+  Mikutap: https://wang64.cn/go?url=https://mikutap.wang64.cn
+  Contact: https://wang64.cn/go?url=https://cv.wang64.cn
 
 social_icons:
   enable: true
@@ -117,6 +125,10 @@ social_icons:
   CSDN: codiepie
   Weibo: weibo
   More: ellipsis-h
+  Mark: link
+  Link: link
+  Mikutap: link
+  Contact: link
 
 # Blog rolls
 links_icon: link
