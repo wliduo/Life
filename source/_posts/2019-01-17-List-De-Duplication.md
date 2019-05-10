@@ -22,7 +22,7 @@ date: 2019-01-17 15:18:18
 ```java
 /**
 * 使用两个for循环实现List去重
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/17 18:08
 */
 public static List repeatListWayOne(List<String> list) {
@@ -45,7 +45,7 @@ public static List repeatListWayOne(List<String> list) {
 ```java
 /**
 * 使用HashSet实现List去重
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/17 18:08
 */
 public static List repeatListWayTwo(List<String> list) {
@@ -67,7 +67,7 @@ public static List repeatListWayTwo(List<String> list) {
 ```java
 /**
 * 使用TreeSet实现List去重
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/17 18:08
 */
 public static List repeatListWayThird(List<String> list) {
@@ -89,7 +89,7 @@ public static List repeatListWayThird(List<String> list) {
 ```java
 /**
 * 利用List集合contains方法循环遍历去重
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/17 18:08
 */
 public static List repeatListWayFourth(List<String> list) {

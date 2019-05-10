@@ -16,7 +16,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://wang64.cn
+url: https://dolyw.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -92,7 +92,7 @@ rss: atom.xml
 
 # hexo-admin authentification
 admin:
-  username: wang926454
+  username: dolyw
   password_hash: $2a$10$KOBBkj/AsRtFfDMxqKAdMeP7l9Zs2TnYuny7NcMi2vq5xGCHCjhGW
   secret: 随心
 
@@ -100,6 +100,6 @@ admin:
 ## Docs: https://hexo.io/docs/deployment.html
 # deploy:
 #  type: git
-#  repo: https://github.com/wang926454/NoteD.git
+#  repo: https://github.com/dolyw/NoteD.git
 #  branch: master
 #  message: Hexo自动部署

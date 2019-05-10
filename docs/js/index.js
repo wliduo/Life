@@ -26,11 +26,11 @@ if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE 
 }
     
 // 变化一次壁纸
-var imageUrls = ['https://wang926454.gitee.io/reader/Image/201810/normal/20010.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/02015.png',
-              'https://wang926454.gitee.io/reader/Image/201811/normal/05020.png',
-              'https://wang926454.gitee.io/reader/Image/201812/normal/23005.png',
-              'https://wang926454.gitee.io/reader/Image/201901/normal/16005.png'];
+var imageUrls = ['https://dolyw.gitee.io/reader/Image/201810/normal/20010.png',
+              'https://dolyw.gitee.io/reader/Image/201811/normal/02015.png',
+              'https://dolyw.gitee.io/reader/Image/201811/normal/05020.png',
+              'https://dolyw.gitee.io/reader/Image/201812/normal/23005.png',
+              'https://dolyw.gitee.io/reader/Image/201901/normal/16005.png'];
 var indexImage = document.getElementById('indexImage');
 var img = new Image();
 var url = imageUrls[Math.floor(imageUrls.length * Math.random())];
@@ -53,14 +53,14 @@ img.onload = function () {
 var status = 1;
 $("#myFace").on("click",function(){
   if(status == 1){
-    $("#authorImage").attr("src", "https://wang926454.gitee.io/reader/Image/201811/normal/02005.png");
+    $("#authorImage").attr("src", "https://dolyw.gitee.io/reader/Image/201811/normal/02005.png");
     $("#authorText").html("居然被你发现了~o(*////▽////*)o");
     $("#main").css("padding-bottom", "350px");
     $("#footerImage").css("display", "");
     // $("#live2dcanvas").css("display", "");
     status = 0
   }else{
-    $("#authorImage").attr("src", "https://wang926454.gitee.io/reader/Image/201810/normal/20025.png");
+    $("#authorImage").attr("src", "https://dolyw.gitee.io/reader/Image/201810/normal/20025.png");
     $("#authorText").html("只想每天开心的像个孩子");
     $("#main").css("padding-bottom", "130px");
     $("#footerImage").css("display", "none");

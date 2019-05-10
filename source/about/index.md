@@ -6,7 +6,7 @@ type: about
 
 -----
 
-<img src="https://blog.wang64.cn/assets/images/avatar.gif" height="150px" width="150px" />
+<img src="https://blog.dolyw.com/assets/images/avatar.gif" height="150px" width="150px" />
 
 <h2 align="center">随心</h2>
 
@@ -66,6 +66,6 @@ type: about
 
 -----
 
-![image text](https://wang926454.gitee.io/reader/Image/201810/normal/10010.png)
+![image text](https://dolyw.gitee.io/reader/Image/201810/normal/10010.png)
 
 -----

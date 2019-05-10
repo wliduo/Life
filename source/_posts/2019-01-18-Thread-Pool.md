@@ -27,7 +27,7 @@ date: 2019-01-18 15:18:18
 ```java
 /**
 * 我们可以通过ThreadPoolExecutor来创建一个线程池
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/18 17:38
 */
 new ThreadPoolExecutor(corePoolSize, maximumPoolSize, keepAliveTime, milliseconds, runnableTaskQueue, threadFactory, handler);
@@ -63,7 +63,7 @@ handler - 拒绝策略
 ```java
 /**
 * 需要引入commons-lang3
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/18 17:49
 */
 ScheduledExecutorService executorService = new ScheduledThreadPoolExecutor(1, new BasicThreadFactory.Builder().namingPattern("example-schedule-pool-%d").daemon(true).build());
@@ -76,7 +76,7 @@ ScheduledExecutorService executorService = new ScheduledThreadPoolExecutor(1, ne
 ```java
 /**
 * 需要引入com.google.guava
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/18 17:49
 */
 ThreadFactory namedThreadFactory = new ThreadFactoryBuilder().setNameFormat("demo-pool-%d").build();
@@ -95,7 +95,7 @@ import java.util.concurrent.*;
 
 /**
 * 需要引入com.google.guava
-* @author Wang926454
+* @author dolyw
 * @date 2019/1/18 17:56
 */
 public class ThreadPoolUtil {
@@ -109,7 +109,7 @@ public class ThreadPoolUtil {
      * 禁止实例化
      * @param
      * @return
-     * @author Wang926454
+     * @author dolyw
      * @date
      */
     private ThreadPoolUtil() {
@@ -119,7 +119,7 @@ public class ThreadPoolUtil {
      * 获取线程池
      * @param 
      * @return java.util.concurrent.ExecutorService
-     * @author Wang926454
+     * @author dolyw
      * @date 2019/3/18 11:41
      */
     public static ExecutorService getExecutorService() {

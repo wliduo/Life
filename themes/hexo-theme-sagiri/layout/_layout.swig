@@ -88,9 +88,9 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
   {{ live2d() }}
-  <script type="text/javascript" src="https://wang926454.gitee.io/reader/JS/aplist.js"></script>
+  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/aplist.js"></script>
   <script type="text/javascript" src="{{ url_for(theme.js) }}/index.js"></script>
   <!-- 页面点击小红心 -->
-  <script type="text/javascript" src="https://wang926454.gitee.io/reader/JS/love.js"></script>
+  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/love.js"></script>
 </body>
 </html>

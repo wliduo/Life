@@ -30,7 +30,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "wang926454,blog"
+keywords: "dolyw,blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -64,9 +64,9 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  sitemap: https://wang64.cn/go?url=https://wang64.cn || home
-  msg: https://wang64.cn/go?url=https://msg.wang64.cn || msg
-  theme: https://wang64.cn/go?url=https://blog.wang64.cn || theme
+  sitemap: https://dolyw.com/go?url=https://dolyw.com || home
+  msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
+  theme: https://dolyw.com/go?url=https://blog.dolyw.com || theme
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -107,14 +107,14 @@ scheme: Pisces
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  # GitHub: https://github.com/wang926454
-  # CSDN: https://blog.csdn.net/wang926454
-  # Gitee: https://gitee.com/wang926454
-  # Weibo: https://weibo.com/wang926454
-  Mark: https://wang64.cn/go?url=https://mark.wang64.cn
-  Link: https://wang64.cn/go?url=https://link.wang64.cn
-  Mikutap: https://wang64.cn/go?url=https://mikutap.wang64.cn
-  Contact: https://wang64.cn/go?url=https://cv.wang64.cn
+  # GitHub: https://github.com/dolyw
+  # CSDN: https://blog.csdn.net/dolyw
+  # Gitee: https://gitee.com/dolyw
+  # Weibo: https://weibo.com/dolyw
+  Mark: https://dolyw.com/go?url=https://mark.dolyw.com
+  Link: https://dolyw.com/go?url=https://link.dolyw.com
+  Mikutap: https://dolyw.com/go?url=https://mikutap.dolyw.com
+  Contact: https://dolyw.com/go?url=https://cv.dolyw.com
 
 social_icons:
   enable: true
@@ -136,12 +136,12 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  DIYgos: https://diygod.me || https://wang926454.gitee.io/reader/Image/headt.png || Hi, DIYgod
+  DIYgos: https://diygod.me || https://dolyw.gitee.io/reader/Image/headt.png || Hi, DIYgod
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-avatar: https://wang926454.gitee.io/reader/Image/headt.png
+avatar: https://dolyw.gitee.io/reader/Image/headt.png
 
 # Table Of Contents in the Sidebar
 toc:
@@ -786,10 +786,10 @@ css: css
 js: js
 images: images
 
-header_bg: https://wang926454.gitee.io/reader/Image/201810/normal/20010.png
+header_bg: https://dolyw.gitee.io/reader/Image/201810/normal/20010.png
 
 card:
-  avatar: https://wang926454.gitee.io/reader/Image/201810/normal/20025.png
+  avatar: https://dolyw.gitee.io/reader/Image/201810/normal/20025.png
   name: 
   description: 只想每天开心的像个孩子
 

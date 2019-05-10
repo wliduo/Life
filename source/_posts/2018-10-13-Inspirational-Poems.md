@@ -6,8 +6,8 @@ category: Article
 tags: Article
 date: 2018-10-13 15:18:18
 photos: 
-- https://wang926454.gitee.io/reader/Image/201810/normal/10010.png
-- https://wang926454.gitee.io/reader/Image/201810/normal/13005.png
+- https://dolyw.gitee.io/reader/Image/201810/normal/10010.png
+- https://dolyw.gitee.io/reader/Image/201810/normal/13005.png
 ---
 
 -----

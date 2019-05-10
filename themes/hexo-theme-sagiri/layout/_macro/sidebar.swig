@@ -63,7 +63,7 @@
 
           {% if theme.rss %}
             <div class="feed-link motion-element">
-              <a href="http://note.wang64.cn/atom.xml" rel="alternate" target="_blank">
+              <a href="http://note.dolyw.com/atom.xml" rel="alternate" target="_blank">
                 <i class="fa fa-rss"></i>
                 RSS
               </a>

@@ -185,5 +185,5 @@
 
 {% include 'head/custom-head.swig' %}
 
-<script src="https://wang926454.gitee.io/reader/JS/instantclick.min.js" data-no-instant></script>
+<script src="https://dolyw.gitee.io/reader/JS/instantclick.min.js" data-no-instant></script>
 <script data-no-instant>InstantClick.init();</script>
