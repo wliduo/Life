@@ -6,7 +6,7 @@ type: about
 
 -----
 
-<img src="https://blog.dolyw.com/assets/images/avatar.gif" height="150px" width="150px" />
+<img src="https://dolyw.gitee.io/reader/Image/headt.png" height="150px" width="150px" />
 
 <h2 align="center">随心</h2>
 
