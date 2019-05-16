@@ -2,8 +2,8 @@
 title: 坏孩子的夏天
 description: 2007年的九月份，我被丢到一个偏远的山区，那时我刚读高二，在学校闯了一个大祸，校方责令我休学，我爸已经对我彻底不抱希望了.....
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2018-10-14 15:18:19
 ---
 

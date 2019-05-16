@@ -2,8 +2,8 @@
 title: 别让遗憾聚集到最后无法挽回，让所有的想念启程
 description: 有的人走近了你，嵌入生命；有的人与你擦肩而过，山水不相逢；有的人来过，爱过，最后错过。长大后发现，很多下次再见，就是再也不见
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2019-01-31 14:20:18
 ---
 

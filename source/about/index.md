@@ -10,7 +10,7 @@ type: about
 
 <h2 align="center">随心</h2>
 
-<p align="center">生活其实挺好玩的，但是生活喜欢玩我～</p>
+<p align="center"><b>愿你出走半生，归来仍是少年</b></p>
 
 -----
 

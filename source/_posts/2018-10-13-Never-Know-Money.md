@@ -2,8 +2,8 @@
 title: 你从不知道那些缺钱的人
 description: 我曾见过一个老奶奶，因为坐公交车投错了钱，本来是一块钱却放进去五块钱，她求了那公交车师傅一路。因为车上人太多了，公交车师傅一直推脱说自己没看见.....
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2018-10-13 22:18:18
 ---
 

@@ -2,8 +2,8 @@
 title: 万般滋味，都是生活
 description: 有人住高楼，有人在深沟，有人光万丈，有人一身锈。有人靠一张脸，一部片子能挣1000万，有人仅仅活着，就已经用尽全身力气...
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2018-12-31 21:46:18
 ---
 

@@ -30,7 +30,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "dolyw,blog"
+keywords: "dolyw,wang64,wang926454,随心"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -64,14 +64,15 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  sitemap: https://dolyw.com/go?url=https://dolyw.com || home
+  sitemap: https://dolyw.com/go?url=https://map.dolyw.com || home
+  friend: https://dolyw.com/go?url=https://friend.dolyw.com || friend
   msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
   theme: https://dolyw.com/go?url=https://blog2.dolyw.com || theme
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
   tags: /tags/ || tags
-  about: /about/ || about
+  # about: /about/ || about
 
 # Enable/Disable menu icons.
 menu_icons:
@@ -81,6 +82,7 @@ menu_icons:
   categories: list
   tags: tags
   about: magnet
+  friend: magnet
   sitemap: paper-plane-o
   msg: paw
   theme: cogs
@@ -111,8 +113,9 @@ social:
   # CSDN: https://blog.csdn.net/dolyw
   # Gitee: https://gitee.com/dolyw
   # Weibo: https://weibo.com/dolyw
+  Home: https://dolyw.com/go?url=https://dolyw.com
   Mark: https://dolyw.com/go?url=https://mark.dolyw.com
-  Link: https://dolyw.com/go?url=https://link.dolyw.com
+  # Link: https://dolyw.com/go?url=https://link.dolyw.com
   Mikutap: https://dolyw.com/go?url=https://mikutap.dolyw.com
   Contact: https://dolyw.com/go?url=https://cv.dolyw.com
 
@@ -343,7 +346,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 1826dd4e676f6c917705c5632139f6dd
+baidu_analytics: 2beae01f64653b00b6689fce672e9a08
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -791,7 +794,7 @@ header_bg: https://dolyw.gitee.io/reader/Image/201810/normal/20010.png
 card:
   avatar: https://dolyw.gitee.io/reader/Image/201810/normal/20025.png
   name: 
-  description: 只想每天开心的像个孩子
+  description: 愿你出走半生，归来仍是少年
 
 footer:
   # Specify the date when the site was setup.

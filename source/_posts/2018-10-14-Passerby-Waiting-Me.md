@@ -2,8 +2,8 @@
 title: 彼以路人待我，我亦以路人报之，彼以国士待我，我亦以国士报之
 description: 有这样一个老头，他家境优越乐善好施，只要有人找他求助他都不遗余力的去帮别人，因此口碑非常不错.....
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2018-10-14 15:18:18
 ---
 

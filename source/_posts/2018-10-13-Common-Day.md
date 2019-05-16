@@ -2,8 +2,8 @@
 title: 这是普普通通的一天
 description: 早上起来，她发现家里停电了。于是没办法用热水洗漱，用电吹风吹头发，不能热牛奶，烤面包，只好草草打理一下就出门。刚走进电梯.....
 layout: post
-category: Life
-tags: Life
+category: Article
+tags: Article
 date: 2018-10-13 23:18:18
 ---
 
