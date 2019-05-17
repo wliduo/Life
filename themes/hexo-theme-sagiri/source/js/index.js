@@ -36,7 +36,9 @@ var img = new Image();
 var url = imageUrls[Math.floor(imageUrls.length * Math.random())];
 img.src = url;
 img.onload = function () {
+  $("#indexImage").hide();
   indexImage.style.backgroundImage = "url(" + url + ")";
+  $("#indexImage").fadeIn(1000);
 }
     
 // 3秒变化一次壁纸 推荐使用setTimeout
