@@ -1,7 +1,7 @@
 ---
 title: 史上最污技术解读，让你秒懂IT术语
 description: 太污了，纯洁的我都看不下去了
-category: Java
+category: Note
 tags: [Java]
 date: 2019-03-18 15:18:18
 ---

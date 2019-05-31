@@ -2,7 +2,7 @@
 title: 面试题收集
 description: 面试题收集
 layout: post
-category: InterviewCV
+category: Note
 tags: [InterviewCV, Java]
 date: 2019-04-20
 # url: https://mp.weixin.qq.com/s/PTUe5vAmpp3pfM4XrG_BdQ

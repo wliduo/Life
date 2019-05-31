@@ -2,7 +2,7 @@
 title: Markdown文件的基本常用编写语法
 description: 这个文档自身就是使用Markdown编写的，Markdown允许你通过编写易读、易写的富文本格式，然后很方便就可以转换成有效的HTML
 layout: post
-category: Markdown
+category: Note
 tags: [Jekyll, Hexo, Markdown]
 date: 2018-10-10 15:18:18
 ---

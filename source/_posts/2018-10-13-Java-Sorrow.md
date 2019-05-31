@@ -1,7 +1,7 @@
 ---
 title: Java程序员的悲哀
 description: 我写了无数个面向对象的程序，最终还是找不到对象。我会Java这么美的编程语言，却没能打动你的芳心.....
-category: Java
+category: Note
 tags: Java
 date: 2018-10-13 15:18:18
 photos:

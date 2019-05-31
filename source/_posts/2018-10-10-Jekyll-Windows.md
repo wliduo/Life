@@ -1,7 +1,7 @@
 ---
 title: 在Windows下安装与使用Jekyll
 description: 简单的介绍在Windows系统下如何安装Ruby和Jekyll，以及怎么样使用Jekyll简单的进行创建和运行Blog项目
-category: Jekyll
+category: Note
 tags: [Jekyll, Ruby]
 date: 2018-10-10 14:18:18
 ---

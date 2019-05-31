@@ -1,7 +1,7 @@
 ---
 title: Java中的线程安全和线程不安全
 description: 简单的介绍在Java中的线程安全(Thread-Safe)和线程不安全以及线程安全和不安全的集合对象，还有一个通俗易懂的小例子
-category: Thread
+category: Note
 tags: [Java, Thread]
 date: 2018-10-26 15:18:18
 ---
