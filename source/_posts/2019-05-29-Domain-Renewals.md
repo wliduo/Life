@@ -14,13 +14,13 @@ photos:
 
 **今天想起来那个减20的域名续费卷6月就要到期了，不想浪费，然后想续费dolyw.com这个域名，结果发现有个满170减60的卷(ง •̀_•́)ง**
 
-<!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201158.jpg) -->
-![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201158.jpg)
+![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201158.jpg)
+<!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201158.jpg) -->
 
 **hhh，好开心，然后我就续费了三年，当时是开心的，现在想想，emmm，花了120，本来买个手机就破产了，( ˘•ω•˘ )**
 
-<!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201211.jpg) -->
-![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201211.jpg)
+![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201211.jpg)
+<!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201211.jpg) -->
 
 **算了，(๑˙ー˙๑)**
 
