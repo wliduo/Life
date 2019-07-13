@@ -1,4 +1,913 @@
-<!DOCTYPE html><html class="theme-next pisces" lang="zh-Hans"><head><meta name="generator" content="Hexo 3.8.0"><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"><meta name="theme-color" content="#222"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><link href="https://cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet" type="text/css"><link href="//fonts.cat.net/css?family=Sigmar One:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css"><link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css"><link href="https://cdn.bootcss.com/social-share.js/1.0.9/css/share.min.css" rel="stylesheet" type="text/css"><link href="/css/main.css?v=0.0.4" rel="stylesheet" type="text/css"><link rel="apple-touch-icon" sizes="180x180" href="/images/DIYgod.jpg?v=0.0.4"><link rel="icon" type="image/png" sizes="32x32" href="/images/favicon.ico?v=0.0.4"><link rel="mask-icon" href="/images/failure.ico?v=0.0.4" color="#222"><meta name="keywords" content="Java,InterviewCV,"><link rel="alternate" href="/atom.xml" title="dolyw" type="application/atom+xml"><meta name="description" content="面试题收集"><meta name="keywords" content="Java,InterviewCV"><meta property="og:type" content="article"><meta property="og:title" content="面试题收集"><meta property="og:url" content="https://dolyw.com/2019/04/20/2019-04-20-Interview/index.html"><meta property="og:site_name" content="dolyw"><meta property="og:description" content="面试题收集"><meta property="og:locale" content="zh-Hans"><meta property="og:updated_time" content="2019-05-31T02:42:25.255Z"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="面试题收集"><meta name="twitter:description" content="面试题收集"><script type="text/javascript" id="hexo.configurations">var NexT=window.NexT||{},CONFIG={root:"/",scheme:"Pisces",version:"0.0.4",sidebar:{position:"right",display:"always",offset:52,b2t:!1,scrollpercent:!1,onmobile:!1},fancybox:!0,tabs:!0,motion:{enable:!1,async:!1,transition:{post_block:"fadeIn",post_header:"slideDownIn",post_body:"slideDownIn",coll_header:"slideLeftIn",sidebar:"slideUpIn"}},since:"11/1/2018 13:30:00",onlineAPI:"",site:{title:"dolyw",subtitle:"",author:"随风飘的纸飞机"},duoshuo:{userId:"0",author:"博主"},algolia:{applicationID:"",apiKey:"",indexName:"",hits:{per_page:10},labels:{input_placeholder:"Search for Posts",hits_empty:"We didn't find any results for the search: ${query}",hits_stats:"${hits} results found in ${time} ms"}},leancloud:{enable:!1,appID:"",appKey:""},favicon:{visibilitychange:!0,narmal:"/images/favicon.ico",hidden:"/images/failure.ico",show_text:"(≧▽≦)咦~又好了~",hide_text:"(●—●)哎呦~崩溃啦~"}}</script><script type="text/javascript" src="https://cdn.bootcss.com/jquery/2.1.3/jquery.min.js"></script><link rel="canonical" href="https://dolyw.com/2019/04/20/2019-04-20-Interview/"><script src="https://dolyw.gitee.io/reader/JS/instantclick.min.js" data-no-instant=""></script><script data-no-instant="">InstantClick.init()</script><title>面试题收集 | dolyw</title><style>#live2dcanvas{left:-10px!important;bottom:280px!important}</style><script type="text/javascript">var _hmt=_hmt||[];!function(){var e=document.createElement("script");e.src="https://hm.baidu.com/hm.js?2beae01f64653b00b6689fce672e9a08";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}()</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css"><style>.aplayer.aplayer-fixed .aplayer-lrc{text-shadow:none}</style><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script></head><body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans"><div id="aplayer"></div><div class="container sidebar-position-right page-post-detail"><header id="header" class="header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="header-inner"><nav class="site-nav"><ul id="menu" class="menu"><li class="menu-item menu-item-sitemap"><a href="https://dolyw.com/go?url=https://map.dolyw.com" rel="section" target="_blank"><i class="menu-item-icon fa fa-fw fa-paper-plane-o"></i><br> 导航</a></li><li class="menu-item menu-item-friend"><a href="https://dolyw.com/go?url=https://friend.dolyw.com" rel="section" target="_blank"><i class="menu-item-icon fa fa-fw fa-magnet"></i><br> 友链</a></li><li class="menu-item menu-item-msg"><a href="https://dolyw.com/go?url=https://msg.dolyw.com" rel="section" target="_blank"><i class="menu-item-icon fa fa-fw fa-paw"></i><br> 留言</a></li><li class="menu-item menu-item-theme"><a href="https://dolyw.com/go?url=https://blog2.dolyw.com" rel="section"><i class="menu-item-icon fa fa-fw fa-cogs"></i><br> 切换</a></li><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="menu-item-icon fa fa-fw fa-snowflake-o"></i><br> 主页</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="menu-item-icon fa fa-fw fa-hourglass-half"></i><br> 归档</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-list"></i><br> 分类</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i><br> 标签</a></li><li class="menu-item online">随心</li></ul></nav><div id="indexImage" class="site-brand-wrapper"><div class="site-meta"><div class="custom-logo-site-title"><div class="brand"><span class="logo-line-before"><i></i></span><div class="site-title"><div id="animate" class="animate"> <span>d</span><span>o</span><span>l</span><span>y</span><span>w</span></div><div id="guide" class="guide"> <span>d</span><span>o</span><span>l</span><span>y</span><span>w</span></div></div><span class="logo-line-after"><i></i></span></div></div><p class="site-subtitle"></p></div><div class="site-nav-toggle"> <button><span class="btn-bar"></span><span class="btn-bar"></span><span class="btn-bar"></span></button></div></div><div class="site-master" itemprop="author" itemscope="" itemtype="http://schema.org/Person"> <img class="site-master-avatar" itemprop="image" src="https://dolyw.gitee.io/reader/Image/headt.png" alt="随风飘的纸飞机"><h2 class="site-master-description" itemprop="description"></h2></div></div></header><main id="main" class="main"><div class="main-inner"><div class="content-wrap"><div id="content" class="content"><div id="posts" class="posts-expand"><article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article"><div class="post-date"><div class="post-month">04月</div><div class="post-day">20</div></div><div class="post-badge"> <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/Note/" itemprop="url" rel="index"><span itemprop="name">Note</span></a></span></div><div class="post-block"><link itemprop="mainEntityOfPage" href="https://dolyw.com/2019/04/20/2019-04-20-Interview/"><span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person"><meta itemprop="name" content="随风飘的纸飞机"><meta itemprop="description" content=""><meta itemprop="image" content="https://dolyw.gitee.io/reader/Image/headt.png"></span><span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization"><meta itemprop="name" content="dolyw"></span><header class="post-header"><h1 class="post-title" itemprop="name headline">面试题收集</h1><div class="post-meta"><span class="post-time"><span class="post-meta-item-icon"><i class="fa fa-calendar-o"></i></span> <span class="post-meta-item-text">发表于</span> <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-04-20T00:00:00+08:00">2019-04-20</time></span> <span class="post-category"><span class="post-meta-divider">•</span><span class="post-meta-item-icon"><i class="fa fa-folder-o"></i></span> <span class="post-meta-item-text">分类于</span> <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing"><a href="/categories/Note/" itemprop="url" rel="index"><span itemprop="name">Note</span></a></span></span></div></header><div class="post-body" itemprop="articleBody"><hr><ol><li><p>自我介绍（主要讲自己会的技术细节，项目经验，经历那些就一语带过，后面面试官会问你的）</p></li><li><p>聊聊项目（就是一个很普通的分布式商城，自己做了一些改进），让我画了整个项目的架构图，然后针对项目抛了一系列的提高性能的问题，还问了我做项目的过程中遇到了那些问题，如何解决的，差不读就这些吧</p></li><li><p>可能是我前面说了我会数据库优化，然后面试官就开始问索引、事务隔离级别、悲观锁和乐观锁、索引、ACID、MVVC这些问题</p></li><li><p>浏览器输入URL发生了什么? TCP和UDP区别? TCP如何保证传输可靠性?</p></li><li><p>讲下跳表怎么实现的?哈夫曼编码是怎么回事？非递归且不用额外空间（不用栈），如何遍历二叉树</p></li><li><p>后面又问了很多JVM方面的问题，比如Java内存模型、常见的垃圾回收器、双亲委派模型这些</p></li><li><p>你有什么问题要问吗？</p></li></ol><hr><ol start="2"><li><p>操作系统的内存管理机制</p></li><li><p>进程和线程的区别</p></li><li><p>说下你对线程安全的理解</p></li><li><p>volatile有什么作用，sychronized和lock有什么区别</p></li><li><p>ReentrantLock实现原理</p></li><li><p>用过CountDownLatch么？什么场景下用的？</p></li><li><p>AQS底层原理</p></li><li><p>造成死锁的原因有哪些，如何预防？</p></li><li><p>加锁会带来哪些性能问题。如何解决？</p></li><li><p>HashMap、ConcurrentHashMap源码。HashMap是线程安全的吗？Hashtable呢？ConcurrentHashMap有了解吗？</p></li><li><p>你有什么问题要问吗？</p></li></ol><hr><ol start="3"><li><p>你觉得你有什么优点和缺点？你觉得你相比于那些比你更优秀的人欠缺什么？</p></li><li><p>有读过什么源码吗？（我说我读过 Java 集合框架和 Netty 的，面试官说 Java 集合前几面一定问的差不多，就不问了，然后就问我 Netty的，我当时很慌啊！）</p></li><li><p>介绍一下自己对 Netty 的认识，为什么要用。说说业务中，Netty 的使用场景。什么是TCP 粘包/拆包,解决办法。Netty线程模型。Dubbo 在使用 Netty 作为网络通讯时候是如何避免粘包与半包问题？讲讲Netty的零拷贝？</p></li><li><p>用到了那些开源技术、在开源领域做过贡献吗？</p></li><li><p>常见的排序算法及其复杂度，现场写了快排</p></li><li><p>红黑树，B树的一些问题</p></li><li><p>讲讲算法及数据结构在实习项目中的用处</p></li><li><p>自己的未来规划（就简单描述了一下自己未来的设想啊，说的还挺诚恳，面试官好像还挺满意的）</p></li><li><p>你有什么问题要问吗？</p></li></ol><hr><ol><li><p>让我讲一个自己觉得最不错的项目。然后就巴拉巴拉的聊，我记得主要是问了项目是如何进行协作的、遇到问题是如何解决的、与他人发生冲突是如何解决的这些。感觉聊了挺久</p></li><li><p>出现 OOM 后你会怎么排查问题？</p></li><li><p>自己平时是如何学习新技术的？除了 Java 还回去了解其他技术吗?</p></li><li><p>上一段工作经历的收获</p></li><li><p>NginX如何做负载均衡、常见的负载均衡算法有哪些、一致性哈希的一致性是什么意思、一致性哈希是如何做哈希的</p></li><li><p>你有什么问题问我吗？</p></li></ol><hr><ol><li><p>自我介绍（主要讲能突出自己的经历，会的编程技术一语带过）</p></li><li><p>你觉得你有什么优点和缺点？如何克服这些缺点？</p></li><li><p>你前面跟其他面试官讲过一些你做的项目吧？可以给我讲讲吗？你要考虑到我不是一个做技术的人，怎么让我也听得懂。项目中有什么问题，你怎么解决的？你最大的收获是什么？</p></li><li><p>你目前有面试过其他公司吗？如果让你选，这些公司和我们公司，你选哪个？（送分题，回答不好可能送命）</p></li><li><p>你期望的工作地点是哪里？</p></li><li><p>你有什么问题吗？</p></li></ol><hr><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ol><li><p>可以看出面试官问的很多问题都是比较常见的问题，所以记得一定要提前准备，还要深入准备，不要回答的太皮毛。很多时候一个问题可能会牵扯出很多问题，遇到不会的问题不要慌，冷静分析，如果你真的回答不上来，也不要担心自己是不是就要挂了，很可能这个问题本身就比较难。</p></li><li><p>表达能力和沟通能力太重要了，一定要提前练一下，我自身就是一个不太会说话的人，所以，面试前我对于自我介绍、项目介绍和一些常见问题都在脑子里练了好久，确保面试的时候能够很清晰和简洁的说出来</p></li><li><p>面试之后及时总结，面的好的话，不要得意，尽快准备下一场面试吧</p></li></ol></div><div class="post-share">分享到：</div><footer class="post-footer"><div class="post-tags"> <a href="/tags/Java/" rel="tag"># Java</a> <a href="/tags/InterviewCV/" rel="tag"># InterviewCV</a></div><div class="post-nav"><div class="post-nav-next post-nav-item"><a href="/2019/03/18/2019-03-18-Technical-Interpretation/" rel="next" title="史上最污技术解读，让你秒懂IT术语"><i class="fa fa-chevron-left"></i> 史上最污技术解读，让你秒懂IT术语</a></div><span class="post-nav-divider"></span><div class="post-nav-prev post-nav-item"> <a href="/2019/04/20/2019-04-20-CV/" rel="prev" title="怎么样写一个好的简历">怎么样写一个好的简历<i class="fa fa-chevron-right"></i></a></div></div></footer></div></article><div class="post-spread"></div></div></div></div><div class="sidebar-toggle"><div class="sidebar-toggle-line-wrap"><span class="sidebar-toggle-line sidebar-toggle-line-first"></span><span class="sidebar-toggle-line sidebar-toggle-line-middle"></span><span class="sidebar-toggle-line sidebar-toggle-line-last"></span></div></div><aside id="sidebar" class="sidebar"><div class="sidebar-inner"><ul class="sidebar-nav motion-element"><li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap"> 目录</li><li class="sidebar-nav-overview" data-target="site-overview-wrap"> 随心</li></ul><section class="site-overview-wrap sidebar-panel"><div class="site-overview"><div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person"> <img id="authorImage" class="site-author-image" itemprop="image" src="https://dolyw.gitee.io/reader/Image/201810/normal/20025.png" alt="随风飘的纸飞机"><p class="site-author-name" itemprop="name"></p><p id="authorText" class="site-description motion-element" itemprop="description">愿你出走半生，归来仍是少年</p></div><div class="links-of-author motion-element"><span class="links-of-author-item"><a href="https://dolyw.com/go?url=https://dolyw.com" target="_blank" title="Home" data-balloon="Home" data-balloon-pos="up"><i class="fa fa-fw fa-globe"></i></a></span><span class="links-of-author-item"><a href="https://dolyw.com/go?url=https://mark.dolyw.com" target="_blank" title="Mark" data-balloon="Mark" data-balloon-pos="up"><i class="fa fa-fw fa-link"></i></a></span><span class="links-of-author-item"><a href="https://dolyw.com/go?url=https://mikutap.dolyw.com" target="_blank" title="Mikutap" data-balloon="Mikutap" data-balloon-pos="up"><i class="fa fa-fw fa-link"></i></a></span><span class="links-of-author-item"><a href="https://dolyw.com/go?url=https://cv.dolyw.com" target="_blank" title="Contact" data-balloon="Contact" data-balloon-pos="up"><i class="fa fa-fw fa-link"></i></a></span></div><div class="feed-link motion-element"><a href="http://blog.dolyw.com/atom.xml" rel="alternate" target="_blank"><i class="fa fa-rss"></i> RSS</a></div><nav class="site-state motion-element"><div class="site-state-item site-state-posts"> <a href="/archives/"><span class="site-state-item-count">35</span> <span class="site-state-item-name">日志</span></a></div><div class="site-state-item site-state-categories"> <a href="/categories/index.html"><span class="site-state-item-count">3</span> <span class="site-state-item-name">分类</span></a></div><div class="site-state-item site-state-tags"> <a href="/tags/index.html"><span class="site-state-item-count">11</span> <span class="site-state-item-name">标签</span></a></div></nav></div></section><section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active"><div class="post-toc"><div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#总结"><span class="nav-number">1.</span> <span class="nav-text">总结</span></a></li></ol></div></div></section></div></aside></div></main><footer id="footer" class="footer"><div id="footerImage" class="footer-image" style="display:none"></div><div class="footer-inner"><p>已萌萌哒运行<span id="since"></span><span id="myFace" class="my-face">点我(●'◡'●)ﾉ♥</span></p><p>我拼尽全力追逐你的脚步而你却消失在我的眼前</p><p>© <span itemprop="copyrightYear">2019</span> dolyw. 由 <a href="https://hexo.io/" target="_blank" class="external" rel="nofollow">Hexo</a> 强力驱动. Theme By <a href="https://github.com/DIYgod/hexo-theme-sagiri" target="_blank" class="external" rel="nofollow">Sagiri</a> v0.0.4</p><p style="display:none">Made with<i class="fa fa-heart throb" style="color:#d43f57"></i> by <span class="author" itemprop="copyrightHolder">随风飘的纸飞机</span></p></div></footer><div class="back-to-top"><i class="fa fa-arrow-up"></i></div><canvas id="evanyou"></canvas></div><script type="text/javascript" src="/js/sagiri.min.js?v=0.0.4"></script><div id="hexo-helper-live2d"><canvas id="live2dcanvas" width="180" height="360"></canvas></div><style>#live2dcanvas{position:fixed;width:180px;height:360px;opacity:.7;right:0;z-index:999;pointer-events:none;bottom:-20px}</style><script type="text/javascript" src="/live2d/device.min.js"></script><script type="text/javascript">
+<!DOCTYPE html>
+
+
+
+
+<html class="theme-next pisces" lang="zh-Hans">
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  <link href="https://cdn.bootcss.com/fancybox/2.1.5/jquery.fancybox.min.css" rel="stylesheet" type="text/css">
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+
+    
+  
+
+  
+    
+    
+    <link href="//fonts.cat.net/css?family=Sigmar One:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+  
+
+<link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css">
+
+
+
+  
+
+<link href="https://cdn.bootcss.com/social-share.js/1.0.9/css/share.min.css" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=0.0.4" rel="stylesheet" type="text/css">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/DIYgod.jpg?v=0.0.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon.ico?v=0.0.4">
+
+
+  <link rel="mask-icon" href="/images/failure.ico?v=0.0.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="Java,InterviewCV,">
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="dolyw" type="application/atom+xml">
+
+
+
+
+
+
+<meta name="description" content="面试题收集">
+<meta name="keywords" content="Java,InterviewCV">
+<meta property="og:type" content="article">
+<meta property="og:title" content="面试题收集">
+<meta property="og:url" content="https://dolyw.com/2019/04/20/2019-04-20-Interview/index.html">
+<meta property="og:site_name" content="dolyw">
+<meta property="og:description" content="面试题收集">
+<meta property="og:locale" content="zh-Hans">
+<meta property="og:updated_time" content="2019-05-31T02:42:25.255Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="面试题收集">
+<meta name="twitter:description" content="面试题收集">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Pisces',
+    version: '0.0.4',
+    sidebar: {"position":"right","display":"always","offset":52,"b2t":false,"scrollpercent":false,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":false,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    since: '11/1/2018 13:30:00',
+    onlineAPI: '',
+    site: {
+      title: 'dolyw',
+      subtitle: '',
+      author: '随风飘的纸飞机'
+    },
+    duoshuo: {
+      userId: '0',
+      author: '博主'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    leancloud: {
+      enable: false,
+      appID: '',
+      appKey: ''
+    },
+    favicon: {
+      visibilitychange: true,
+      narmal: '/images/favicon.ico',
+      hidden: '/images/failure.ico',
+      show_text: '(≧▽≦)咦~又好了~',
+      hide_text: '(●—●)哎呦~崩溃啦~'
+    }
+  };
+</script>
+
+
+
+  
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/2.1.3/jquery.min.js"></script>
+
+
+
+
+  <link rel="canonical" href="https://dolyw.com/2019/04/20/2019-04-20-Interview/">
+
+
+
+
+
+<script src="https://dolyw.gitee.io/reader/JS/instantclick.min.js" data-no-instant=""></script>
+<script data-no-instant="">InstantClick.init();</script>
+  <title>面试题收集 | dolyw</title>
+  <style> #live2dcanvas { left: -10px!important; bottom: 280px!important; }</style>
+  
+
+
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?2beae01f64653b00b6689fce672e9a08";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+  <style>
+    .aplayer.aplayer-fixed .aplayer-lrc {
+      text-shadow: none;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+</head>
+
+<body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans">
+
+  
+  
+    
+  
+
+  <div id="aplayer"></div>
+
+  <div class="container sidebar-position-right page-post-detail">
+    <header id="header" class="header" itemscope="" itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-sitemap">
+          
+            <a href="https://dolyw.com/go?url=https://map.dolyw.com" rel="section" target="_blank">
+              
+                <i class="menu-item-icon fa fa-fw fa-paper-plane-o"></i> <br>
+              
+              导航
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-friend">
+          
+            <a href="https://dolyw.com/go?url=https://friend.dolyw.com" rel="section" target="_blank">
+              
+                <i class="menu-item-icon fa fa-fw fa-magnet"></i> <br>
+              
+              友链
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-msg">
+          
+            <a href="https://dolyw.com/go?url=https://msg.dolyw.com" rel="section" target="_blank">
+              
+                <i class="menu-item-icon fa fa-fw fa-paw"></i> <br>
+              
+              留言
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-theme">
+          
+            <a href="https://dolyw.com/go?url=https://blog2.dolyw.com" rel="section">
+              
+                <i class="menu-item-icon fa fa-fw fa-cogs"></i> <br>
+              
+              切换
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-home">
+          
+            <a href="/" rel="section">
+              
+                <i class="menu-item-icon fa fa-fw fa-snowflake-o"></i> <br>
+              
+              主页
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          
+            <a href="/archives/" rel="section">
+              
+                <i class="menu-item-icon fa fa-fw fa-hourglass-half"></i> <br>
+              
+              归档
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-categories">
+          
+            <a href="/categories/" rel="section">
+              
+                <i class="menu-item-icon fa fa-fw fa-list"></i> <br>
+              
+              分类
+            </a>
+          
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          
+            <a href="/tags/" rel="section">
+              
+                <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
+              
+              标签
+            </a>
+          
+        </li>
+      
+
+      
+      <li class="menu-item online">随心</li>
+    </ul>
+  
+
+  
+</nav>
+
+<div id="indexImage" class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <div class="brand">
+        <span class="logo-line-before"><i></i></span>
+        <div class="site-title">
+          <div id="animate" class="animate">
+            <span>d</span><span>o</span><span>l</span><span>y</span><span>w</span>
+          </div>
+          <div id="guide" class="guide">
+            <span>d</span><span>o</span><span>l</span><span>y</span><span>w</span>
+          </div>
+        </div>
+        <span class="logo-line-after"><i></i></span>
+      </div>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+<div class="site-master" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+    <img class="site-master-avatar" itemprop="image" src="https://dolyw.gitee.io/reader/Image/headt.png" alt="随风飘的纸飞机">
+    <!-- <h2 class="site-master-description" itemprop="description">
+        dolyw的主页，wang926454的主页，wang64的主页，随心的主页
+    </h2> -->
+</div>
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope="" itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-date">
+			<div class="post-month">04月</div>
+			<div class="post-day">20</div>
+	</div>
+  
+  <div class="post-badge">
+    
+      <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
+        <a href="/categories/Note/" itemprop="url" rel="index">
+          <span itemprop="name">Note</span>
+        </a>
+      </span>
+    
+  </div>
+  
+
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="https://dolyw.com/2019/04/20/2019-04-20-Interview/">
+
+    <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="随风飘的纸飞机">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="https://dolyw.gitee.io/reader/Image/headt.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope="" itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="dolyw">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">面试题收集</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-04-20T00:00:00+08:00">
+                2019-04-20
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">•</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
+                  <a href="/categories/Note/" itemprop="url" rel="index">
+                    <span itemprop="name">Note</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <hr>
+<ol>
+<li><p>自我介绍（主要讲自己会的技术细节，项目经验，经历那些就一语带过，后面面试官会问你的）</p>
+</li>
+<li><p>聊聊项目（就是一个很普通的分布式商城，自己做了一些改进），让我画了整个项目的架构图，然后针对项目抛了一系列的提高性能的问题，还问了我做项目的过程中遇到了那些问题，如何解决的，差不读就这些吧</p>
+</li>
+<li><p>可能是我前面说了我会数据库优化，然后面试官就开始问索引、事务隔离级别、悲观锁和乐观锁、索引、ACID、MVVC这些问题</p>
+</li>
+<li><p>浏览器输入URL发生了什么? TCP和UDP区别? TCP如何保证传输可靠性?</p>
+</li>
+<li><p>讲下跳表怎么实现的?哈夫曼编码是怎么回事？非递归且不用额外空间（不用栈），如何遍历二叉树</p>
+</li>
+<li><p>后面又问了很多JVM方面的问题，比如Java内存模型、常见的垃圾回收器、双亲委派模型这些</p>
+</li>
+<li><p>你有什么问题要问吗？</p>
+</li>
+</ol>
+<hr>
+<ol start="2">
+<li><p>操作系统的内存管理机制</p>
+</li>
+<li><p>进程和线程的区别</p>
+</li>
+<li><p>说下你对线程安全的理解</p>
+</li>
+<li><p>volatile有什么作用，sychronized和lock有什么区别</p>
+</li>
+<li><p>ReentrantLock实现原理</p>
+</li>
+<li><p>用过CountDownLatch么？什么场景下用的？</p>
+</li>
+<li><p>AQS底层原理</p>
+</li>
+<li><p>造成死锁的原因有哪些，如何预防？</p>
+</li>
+<li><p>加锁会带来哪些性能问题。如何解决？</p>
+</li>
+<li><p>HashMap、ConcurrentHashMap源码。HashMap是线程安全的吗？Hashtable呢？ConcurrentHashMap有了解吗？</p>
+</li>
+<li><p>你有什么问题要问吗？</p>
+</li>
+</ol>
+<hr>
+<ol start="3">
+<li><p>你觉得你有什么优点和缺点？你觉得你相比于那些比你更优秀的人欠缺什么？</p>
+</li>
+<li><p>有读过什么源码吗？（我说我读过 Java 集合框架和 Netty 的，面试官说 Java 集合前几面一定问的差不多，就不问了，然后就问我 Netty的，我当时很慌啊！）</p>
+</li>
+<li><p>介绍一下自己对 Netty 的认识，为什么要用。说说业务中，Netty 的使用场景。什么是TCP 粘包/拆包,解决办法。Netty线程模型。Dubbo 在使用 Netty 作为网络通讯时候是如何避免粘包与半包问题？讲讲Netty的零拷贝？</p>
+</li>
+<li><p>用到了那些开源技术、在开源领域做过贡献吗？</p>
+</li>
+<li><p>常见的排序算法及其复杂度，现场写了快排</p>
+</li>
+<li><p>红黑树，B树的一些问题</p>
+</li>
+<li><p>讲讲算法及数据结构在实习项目中的用处</p>
+</li>
+<li><p>自己的未来规划（就简单描述了一下自己未来的设想啊，说的还挺诚恳，面试官好像还挺满意的）</p>
+</li>
+<li><p>你有什么问题要问吗？</p>
+</li>
+</ol>
+<hr>
+<ol>
+<li><p>让我讲一个自己觉得最不错的项目。然后就巴拉巴拉的聊，我记得主要是问了项目是如何进行协作的、遇到问题是如何解决的、与他人发生冲突是如何解决的这些。感觉聊了挺久</p>
+</li>
+<li><p>出现 OOM 后你会怎么排查问题？</p>
+</li>
+<li><p>自己平时是如何学习新技术的？除了 Java 还回去了解其他技术吗?</p>
+</li>
+<li><p>上一段工作经历的收获</p>
+</li>
+<li><p>NginX如何做负载均衡、常见的负载均衡算法有哪些、一致性哈希的一致性是什么意思、一致性哈希是如何做哈希的</p>
+</li>
+<li><p>你有什么问题问我吗？</p>
+</li>
+</ol>
+<hr>
+<ol>
+<li><p>自我介绍（主要讲能突出自己的经历，会的编程技术一语带过）</p>
+</li>
+<li><p>你觉得你有什么优点和缺点？如何克服这些缺点？</p>
+</li>
+<li><p>你前面跟其他面试官讲过一些你做的项目吧？可以给我讲讲吗？你要考虑到我不是一个做技术的人，怎么让我也听得懂。项目中有什么问题，你怎么解决的？你最大的收获是什么？</p>
+</li>
+<li><p>你目前有面试过其他公司吗？如果让你选，这些公司和我们公司，你选哪个？（送分题，回答不好可能送命）</p>
+</li>
+<li><p>你期望的工作地点是哪里？</p>
+</li>
+<li><p>你有什么问题吗？</p>
+</li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><ol>
+<li><p>可以看出面试官问的很多问题都是比较常见的问题，所以记得一定要提前准备，还要深入准备，不要回答的太皮毛。很多时候一个问题可能会牵扯出很多问题，遇到不会的问题不要慌，冷静分析，如果你真的回答不上来，也不要担心自己是不是就要挂了，很可能这个问题本身就比较难。</p>
+</li>
+<li><p>表达能力和沟通能力太重要了，一定要提前练一下，我自身就是一个不太会说话的人，所以，面试前我对于自我介绍、项目介绍和一些常见问题都在脑子里练了好久，确保面试的时候能够很清晰和简洁的说出来</p>
+</li>
+<li><p>面试之后及时总结，面的好的话，不要得意，尽快准备下一场面试吧</p>
+</li>
+</ol>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+      <div class="post-share">分享到：</div>
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Java/" rel="tag"># Java</a>
+          
+            <a href="/tags/InterviewCV/" rel="tag"># InterviewCV</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/04/20/2019-04-20-CV/" rel="next" title="怎么样写一个好的简历">
+                <i class="fa fa-chevron-left"></i> 怎么样写一个好的简历
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/04/20/2019-04-20-50-Details/" rel="prev" title="Java性能优化的50个细节（珍藏版）">
+                Java性能优化的50个细节（珍藏版） <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            随心
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+            
+              <img id="authorImage" class="site-author-image" itemprop="image" src="https://dolyw.gitee.io/reader/Image/201810/normal/20025.png" alt="随风飘的纸飞机">
+            
+              <p class="site-author-name" itemprop="name"></p>
+              <p id="authorText" class="site-description motion-element" itemprop="description">愿你出走半生，归来仍是少年</p>
+          </div>
+
+          <div class="links-of-author motion-element">
+            
+              
+                <span class="links-of-author-item">
+                  <a href="https://dolyw.com/go?url=https://dolyw.com" target="_blank" title="Home" data-balloon="Home" data-balloon-pos="up">
+                    
+                      <i class="fa fa-fw fa-globe"></i></a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://dolyw.com/go?url=https://mark.dolyw.com" target="_blank" title="Mark" data-balloon="Mark" data-balloon-pos="up">
+                    
+                      <i class="fa fa-fw fa-link"></i></a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://dolyw.com/go?url=https://mikutap.dolyw.com" target="_blank" title="Mikutap" data-balloon="Mikutap" data-balloon-pos="up">
+                    
+                      <i class="fa fa-fw fa-link"></i></a>
+                </span>
+              
+                <span class="links-of-author-item">
+                  <a href="https://dolyw.com/go?url=https://cv.dolyw.com" target="_blank" title="Contact" data-balloon="Contact" data-balloon-pos="up">
+                    
+                      <i class="fa fa-fw fa-link"></i></a>
+                </span>
+              
+            
+          </div>
+
+          
+            <div class="feed-link motion-element">
+              <a href="http://blog.dolyw.com/atom.xml" rel="alternate" target="_blank">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">36</span>
+                  <span class="site-state-item-name">日志</span>
+                </a>
+              </div>
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-categories">
+                <a href="/categories/index.html">
+                  <span class="site-state-item-count">3</span>
+                  <span class="site-state-item-name">分类</span>
+                </a>
+              </div>
+            
+
+            
+
+            <div class="site-state-item site-state-tags">
+              
+              <a href="/tags/index.html">
+                <span class="site-state-item-count">11</span>
+                <span class="site-state-item-name">标签</span>
+              </a>
+            </div>
+
+          </nav>
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#总结"><span class="nav-number">1.</span> <span class="nav-text">总结</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div id="footerImage" class="footer-image" style="display: none;"></div>
+      <div class="footer-inner">
+        <p>已萌萌哒运行<span id="since"></span><span id="myFace" class="my-face">点我(●'◡'●)ﾉ♥</span></p>
+<p>我拼尽全力追逐你的脚步而你却消失在我的眼前</p>
+
+<p>© <span itemprop="copyrightYear">2019</span> dolyw.
+    由 <a href="https://hexo.io/" target="_blank" class="external" rel="nofollow">Hexo</a> 强力驱动.
+    Theme By <a href="https://github.com/DIYgod/hexo-theme-sagiri" target="_blank" class="external" rel="nofollow">Sagiri</a> v0.0.4
+    
+    
+</p>
+<p style="display: none;">Made with <i class="fa fa-heart throb" style="color: #d43f57;"></i> by <span class="author" itemprop="copyrightHolder">随风飘的纸飞机</span> </p>
+
+        
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+    <canvas id="evanyou"></canvas>
+
+    
+
+  </div>
+
+  <script type="text/javascript" src="/js/sagiri.min.js?v=0.0.4"></script>
+
+  
+
+
+
+
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+<div id="hexo-helper-live2d">
+  <canvas id="live2dcanvas" width="180" height="360"></canvas>
+</div>
+<style>
+  #live2dcanvas{
+    position: fixed;
+    width: 180px;
+    height: 360px;
+    opacity:0.7;
+    right: 0px;
+    z-index: 999;
+    pointer-events: none;
+    bottom: -20px;
+  }
+</style>
+<script type="text/javascript" src="/live2d/device.min.js"></script>
+<script type="text/javascript">
 const loadScript = function loadScript(c,b){var a=document.createElement("script");a.type="text/javascript";"undefined"!=typeof b&&(a.readyState?a.onreadystatechange=function(){if("loaded"==a.readyState||"complete"==a.readyState)a.onreadystatechange=null,b()}:a.onload=function(){b()});a.src=c;document.body.appendChild(a)};
 (function(){
   if((typeof(device) != 'undefined') && (device.mobile())){
@@ -8,4 +917,11 @@ const loadScript = function loadScript(c,b){var a=document.createElement("script
     if (typeof(device) === 'undefined') console.error('Cannot find current-device script.');
   loadScript("/live2d/script.js", function(){loadlive2d("live2dcanvas", "/live2d/assets/koharu.model.json", 0.5);});
 })();
-</script><script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/aplist.js"></script><script type="text/javascript" src="/js/index.js"></script><script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/love.js"></script></body></html>
+</script>
+
+  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/aplist.js"></script>
+  <script type="text/javascript" src="/js/index.js"></script>
+  <!-- 页面点击小红心 -->
+  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/love.js"></script>
+</body>
+</html>
