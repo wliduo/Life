@@ -67,7 +67,7 @@ menu:
   sitemap: https://dolyw.com/go?url=https://map.dolyw.com || home
   friend: https://dolyw.com/go?url=https://friend.dolyw.com || friend
   msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
-  theme: https://dolyw.com/go?url=https://blog2.dolyw.com || theme
+  note: https://dolyw.com/go?url=https://note.dolyw.com || note
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -86,6 +86,7 @@ menu_icons:
   sitemap: paper-plane-o
   msg: paw
   theme: cogs
+  note: book
 
 
 # ---------------------------------------------------------------
