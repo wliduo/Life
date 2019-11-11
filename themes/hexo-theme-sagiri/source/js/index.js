@@ -29,7 +29,7 @@ if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE 
 var imageUrls = ['https://dolyw.gitee.io/reader/Image/201810/normal/20010.png',
               'https://dolyw.gitee.io/reader/Image/201811/normal/02015.png',
               'https://dolyw.gitee.io/reader/Image/201811/normal/05020.png',
-              'https://dolyw.gitee.io/reader/Image/201812/normal/23005.png',
+              'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191109005.png',
               'https://dolyw.gitee.io/reader/Image/201901/normal/16005.png'];
 var indexImage = document.getElementById('indexImage');
 var img = new Image();

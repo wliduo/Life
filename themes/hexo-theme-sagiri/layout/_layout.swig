@@ -90,7 +90,7 @@
   {{ live2d() }}
   <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/aplist.js"></script>
   <script type="text/javascript" src="{{ url_for(theme.js) }}/index.js"></script>
-  <!-- 页面点击小红心 -->
-  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/love.js"></script>
+  <!-- 页面点击七彩颗粒 -->
+  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/seed.js"></script>
 </body>
 </html>
