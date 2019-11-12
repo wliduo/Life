@@ -88,9 +88,9 @@
   {% include '_third-party/scroll-cookie.swig' %}
   {% include '_third-party/exturl.swig' %}
   {{ live2d() }}
-  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/aplist.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/aplist.js"></script>
   <script type="text/javascript" src="{{ url_for(theme.js) }}/index.js"></script>
   <!-- 页面点击七彩颗粒 -->
-  <script type="text/javascript" src="https://dolyw.gitee.io/reader/JS/seed.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/seed.js"></script>
 </body>
 </html>

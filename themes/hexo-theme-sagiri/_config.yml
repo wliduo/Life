@@ -65,9 +65,9 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   sitemap: https://dolyw.com/go?url=https://map.dolyw.com || home
-  friend: https://dolyw.com/go?url=https://friend.dolyw.com || friend
-  msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
+  friend: https://dolyw.com/go?url=https://res.dolyw.com || friend
   note: https://dolyw.com/go?url=https://note.dolyw.com || note
+  msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -82,7 +82,7 @@ menu_icons:
   categories: list
   tags: tags
   about: magnet
-  friend: magnet
+  friend: music
   sitemap: paper-plane-o
   msg: paw
   theme: cogs
