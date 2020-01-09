@@ -1,7 +1,7 @@
 ---
 title: 励志的小诗
 description: 时间是一位伟大的作者，它必将写出完美的答案
-layout: post
+# layout: post
 category: Article
 tags: Article
 date: 2018-10-13 15:18:18

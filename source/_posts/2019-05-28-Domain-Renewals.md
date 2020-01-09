@@ -1,6 +1,6 @@
 ---
 title: 域名续费三年，可恶的优惠券
-description: 域名续费三年，可恶的优惠券...
+# description: 域名续费三年，可恶的优惠券...
 layout: post
 category: Life
 tags: Life

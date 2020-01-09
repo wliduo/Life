@@ -12,12 +12,14 @@
   <style> #live2dcanvas { left: -10px!important; bottom: 280px!important; }</style>
   {% include '_third-party/analytics/index.swig' %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+  <link rel="stylesheet" href="https://cdn.staticfile.org/dplayer/1.25.0/DPlayer.min.css">
   <style>
     .aplayer.aplayer-fixed .aplayer-lrc {
       text-shadow: none;
     }
   </style>
   <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+  <script src="https://cdn.staticfile.org/dplayer/1.25.0/DPlayer.min.js"></script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang || page.language || config.language }}">
