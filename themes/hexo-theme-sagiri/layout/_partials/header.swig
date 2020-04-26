@@ -49,7 +49,7 @@
   {% endif %}
 </nav>
 
-<div id="indexImage" class="site-brand-wrapper">
+<div id="indexImage" class="site-brand-wrapper" style="background-image:url({{ url_for( theme.header_bg | default(theme.images + '/header.jpg') ) }})">
   <div class="site-meta {% if theme.custom_logo.enabled %}custom-logo{% endif %}">
     {% if theme.custom_logo.image and theme.scheme === 'Muse' %}
       <div class="site-meta-headline">

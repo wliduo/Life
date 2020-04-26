@@ -794,7 +794,9 @@ images: images
 header_bg: https://dolyw.gitee.io/reader/Image/201810/normal/20010.png
 
 card:
-  avatar: https://dolyw.gitee.io/reader/Image/201810/normal/20025.png
+  # avatar: https://dolyw.gitee.io/reader/Image/201810/normal/20025.png
+  # avatar: https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/202004/20200426005.jpg
+  avatar: https://cdn.jsdelivr.net/gh/wliduo/CDN@master/avatar/03.png
   name: 
   description: 愿你出走半生，归来仍是少年
 
