@@ -20,12 +20,12 @@ override: false
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
   visibilitychange: true
-  narmal: /images/favicon.ico
-  hidden: /images/failure.ico
+  narmal: https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/images/favicon.ico
+  hidden: https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/images/failure.ico
   show_text: (≧▽≦)咦~又好了~
   hide_text: (●—●)哎呦~崩溃啦~
-  apple_touch_icon: /images/DIYgod.jpg
-  safari_pinned_tab: /images/failure.ico
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/images/DIYgod.jpg
+  safari_pinned_tab: https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/images/failure.ico
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
 
@@ -140,7 +140,7 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  DIYgos: https://diygod.me || https://dolyw.gitee.io/reader/Image/headt.png || Hi, DIYgod
+  DIYgos: https://dolyw.com || https://dolyw.gitee.io/reader/Image/headt.png || hi, dolyw
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
@@ -287,7 +287,8 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default).
-  host: //fonts.cat.net
+  host: https://fonts.loli.net
+  # host: //fonts.cat.net
 
   # Font options:
   # `external: true` will load this font family from `host` above.

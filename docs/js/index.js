@@ -34,7 +34,7 @@ var imageUrls = ['https://dolyw.gitee.io/reader/Image/201810/normal/20010.png',
               'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107005.jpg',
               'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107010.jpg',
               'https://dolyw.gitee.io/reader/Image/201901/normal/16005.png'];
-var indexImage = document.getElementById('indexImage');
+/* var indexImage = document.getElementById('indexImage');
 var img = new Image();
 var url = imageUrls[Math.floor(imageUrls.length * Math.random())];
 img.src = url;
@@ -42,7 +42,7 @@ img.onload = function () {
   $("#indexImage").hide();
   indexImage.style.backgroundImage = "url(" + url + ")";
   $("#indexImage").fadeIn(1000);
-}
+} */
     
 // 3秒变化一次壁纸 推荐使用setTimeout
 /* setTimeout(function () {
