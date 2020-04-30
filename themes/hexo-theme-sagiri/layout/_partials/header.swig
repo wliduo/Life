@@ -65,12 +65,12 @@
         <span class="logo-line-before"><i></i></span>
         <div class="site-title">
           <div id="animate" class="animate">
-            {% for letter in config.title %}{#
+            {% for letter in config.cv %}{#
               #}<span>{{ letter }}</span>{#
             #}{% endfor %}
           </div>
           <div id="guide" class="guide">
-            {% for letter in config.title %}{#
+            {% for letter in config.cv %}{#
               #}<span>{{ letter }}</span>{#
             #}{% endfor %}
           </div>

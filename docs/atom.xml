@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>dolyw</title>
+  <title>生活</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://dolyw.com/"/>
-  <updated>2020-01-13T03:40:49.233Z</updated>
+  <updated>2020-04-29T11:14:53.039Z</updated>
   <id>https://dolyw.com/</id>
   
   <author>
@@ -17,13 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>计划永远赶不上变化</title>
+    <link href="https://dolyw.com/2020/04/29/2020-04-29-Bye-YA/"/>
+    <id>https://dolyw.com/2020/04/29/2020-04-29-Bye-YA/</id>
+    <published>2020-04-28T16:00:00.000Z</published>
+    <updated>2020-04-29T11:14:53.039Z</updated>
+    
+    <content type="html"><![CDATA[<div id="aplayer-2020-04-29"></div><script>$(function(){$.ajax({url:"https://api.i-meto.com/meting/api?server=netease&type=song&id=1374329431",success:function(e){var a=new APlayer({element:document.getElementById("aplayer-2020-04-29"),showlrc:3,theme:"#1E90FF",music:JSON.parse(e)[0]});window.aplayers||(window.aplayers=[]),window.aplayers.push(a)}})})</script><hr><p><b>上次1月初还是对 2020 年计划打算好了的写了一篇记录，到现在，当时计划好的都变了，可能主要影响的原因就是疫情吧</b></p><p>今年过年的时候发生疫情了，已经记不起上次疫情是什么时候了，这次的传播率更强，回家的我都是害怕的，口罩当时就告急了，我临回去那天早上去楼下药店买到两个，就这样到家了，在家都看着全国开始蔓延，武汉越来越严重，当时回家那几天老感觉自己会不会被传染了，心里有点害怕，还好最后没事，最后工作刚开始是远程办公，现在已经在公司上班了</p><p>现在国内也控制的还好了，国外非常严重，美国很严重，不知道要这个疫情还得持续到什么时候，希望快点好起来，周末都没出门，已经宅家很久了，五一五天，加上明天请假六天，该咋过，还是宅着吧，学习，刷剧，看书，还得叫朋友吃顿好的</p><p>不知不觉就两年了，还记得 18 年 05 月来的，5 月 1 号休息，2 号来的，到今天 4 月 29 号，最后一天在这，明天 30 号请假，正好两年了，时间过的有点快，接下来不知道又是什么样</p><p><img src="https://cdn.jsdelivr.net/gh/wliduo/CDN@master/2020/04/20200429002.jpg" alt="图片"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;div id=&quot;aplayer-2020-04-29&quot;&gt;&lt;/div&gt;
+
+&lt;script&gt;$(function(){$.ajax({url:&quot;https://api.i-meto.com/meting/api?server=netease&amp;type=song&amp;id=1374329
+      
+    
+    </summary>
+    
+      <category term="Life" scheme="https://dolyw.com/categories/Life/"/>
+    
+    
+      <category term="Life" scheme="https://dolyw.com/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2019 我做了什么</title>
     <link href="https://dolyw.com/2020/01/08/2020-01-08-2019-End/"/>
     <id>https://dolyw.com/2020/01/08/2020-01-08-2019-End/</id>
     <published>2020-01-07T16:00:00.000Z</published>
-    <updated>2020-01-13T03:40:49.233Z</updated>
+    <updated>2020-04-29T11:15:55.082Z</updated>
     
-    <content type="html"><![CDATA[<div id="aplayer-2019"></div><script>$(function(){$.ajax({url:"https://api.i-meto.com/meting/api?server=netease&type=song&id=1365393542",success:function(e){var a=new APlayer({element:document.getElementById("aplayer-2019"),showlrc:3,theme:"#8d7561",music:JSON.parse(e)[0]});window.aplayers||(window.aplayers=[]),window.aplayers.push(a)}})})</script><hr><p><b>我希望成为那种，即使再孤单，生活再坎坷，不管天晴天阴，不管有无人爱，都会眷恋着夕阳和晨光，捕捉生活美好瞬间的人</b></p><p>不知不觉新的一年 <strong>2020</strong> 已经到来，我还没做好准备。看看别人的 <strong>2019</strong>，再看我的，完全是肥宅啊，都不知道写什么</p><p><strong>19</strong> 年不像 <strong>18</strong> 年一样，去了很多地方，就是上班，深圳市民中心，深圳湾，海岸城那些地方走走，好像五一都没出门，感觉没做什么一样，翻了一下<strong>豆瓣日记</strong>，其实也发生了很多事，搬家了，遇到新的朋友，公司旅游去东部华侨城，电脑加内存条，国庆四号出门的吧，第一天杨梅坑，到较场尾住民宿，第二天起来看较场尾日出，再到大鹏古城，然后到官湖村，然后回了，是和 LJB 一起去的，还有的就不太好贴到这来，想回忆下就翻下<strong>豆瓣日记</strong>，照片自己看图库就行</p><p>换了网络名称，换了域名；换了新的眼镜，依视路镜片，大框的，<strong>1842</strong> 大洋；换了新的手机，<strong>OnePlus 7 Pro</strong>，<strong>4499</strong> 大洋；参加腾讯云的技术沙龙，去新腾讯总部瞄了一眼，抽奖中了本书，后面把 <strong>OnePlus 3T</strong> 闲鱼回收了 <strong>305</strong> 大洋</p><ul><li><a href="https://life.dolyw.com/2019/05/11/2019-05-11-Toggle-Domain-Name/" target="_blank" rel="noopener">换个名字，换个域名，重新注册谷歌账号</a></li><li><a href="https://life.dolyw.com/2019/05/18/2019-05-18-OnePlus/" target="_blank" rel="noopener">参加OnePlus深圳POP-UP线下活动</a></li><li><a href="https://life.dolyw.com/2019/05/26/2019-05-26-Tencent/" target="_blank" rel="noopener">参加腾讯云的技术沙龙</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<div id="aplayer-2019"></div><script>$(function(){$.ajax({url:"https://api.i-meto.com/meting/api?server=netease&type=song&id=1365393542",success:function(e){var a=new APlayer({element:document.getElementById("aplayer-2019"),showlrc:3,theme:"#000080",music:JSON.parse(e)[0]});window.aplayers||(window.aplayers=[]),window.aplayers.push(a)}})})</script><hr><p><b>我希望成为那种，即使再孤单，生活再坎坷，不管天晴天阴，不管有无人爱，都会眷恋着夕阳和晨光，捕捉生活美好瞬间的人</b></p><p>不知不觉新的一年 <strong>2020</strong> 已经到来，我还没做好准备。看看别人的 <strong>2019</strong>，再看我的，完全是肥宅啊，都不知道写什么</p><p><strong>19</strong> 年不像 <strong>18</strong> 年一样，去了很多地方，就是上班，深圳市民中心，深圳湾，海岸城那些地方走走，好像五一都没出门，感觉没做什么一样，翻了一下<strong>豆瓣日记</strong>，其实也发生了很多事，搬家了，遇到新的朋友，公司旅游去东部华侨城，电脑加内存条，国庆四号出门的吧，第一天杨梅坑，到较场尾住民宿，第二天起来看较场尾日出，再到大鹏古城，然后到官湖村，然后回了，是和 LJB 一起去的，还有的就不太好贴到这来，想回忆下就翻下<strong>豆瓣日记</strong>，照片自己看图库就行</p><p>换了网络名称，换了域名；换了新的眼镜，依视路镜片，大框的，<strong>1842</strong> 大洋；换了新的手机，<strong>OnePlus 7 Pro</strong>，<strong>4499</strong> 大洋；参加腾讯云的技术沙龙，去新腾讯总部瞄了一眼，抽奖中了本书，后面把 <strong>OnePlus 3T</strong> 闲鱼回收了 <strong>305</strong> 大洋</p><ul><li><a href="https://life.dolyw.com/2019/05/11/2019-05-11-Toggle-Domain-Name/" target="_blank" rel="noopener">换个名字，换个域名，重新注册谷歌账号</a></li><li><a href="https://life.dolyw.com/2019/05/18/2019-05-18-OnePlus/" target="_blank" rel="noopener">参加OnePlus深圳POP-UP线下活动</a></li><li><a href="https://life.dolyw.com/2019/05/26/2019-05-26-Tencent/" target="_blank" rel="noopener">参加腾讯云的技术沙龙</a></li></ul>]]></content>
     
     <summary type="html">
     
@@ -48,9 +75,9 @@
     <link href="https://dolyw.com/2019/11/11/2019-11-11-Brazen-Faced/"/>
     <id>https://dolyw.com/2019/11/11/2019-11-11-Brazen-Faced/</id>
     <published>2019-11-10T16:00:00.000Z</published>
-    <updated>2019-11-11T08:00:42.904Z</updated>
+    <updated>2020-04-29T11:24:17.040Z</updated>
     
-    <content type="html"><![CDATA[<p><b>我希望成为那种，即使再孤单，生活再坎坷，不管天晴天阴，不管有无人爱，都会眷恋着夕阳和晨光，捕捉生活美好瞬间的人</b></p><hr><h3 id="Ps"><a href="#Ps" class="headerlink" title="Ps"></a>Ps</h3><p><strong>从开始来深圳到处走，到现在已经没地方去，周末都是躺着，唉，不知不觉又是一个双十一到了，马上一年又过去了，1月份就过年了，我还是老样子，要努力啊</strong></p><p><strong>接下来的记录一下这篇文章，挺不错的</strong></p><p><strong>—End—</strong></p><hr><blockquote><p>做人就得脸皮厚点，不要太谦虚，太客气，越是脸皮越厚，越不要脸的人，才能成功，越是谨小慎微，怕这怕那，犹豫的人，越没有资源，越容易失败</p></blockquote><p>这应该是我两年前说的一句话，当时感慨是感觉自己做公众号，分享文章太保守了，还是群里和大家分享了这句话，以致于很多作者都会在自己做的不好的时候，拿出来调侃或者自嘲自己的脸皮薄，当然这也从侧面印证了这句话的正确性。</p><p>其实，自己创业也有一年半多了，在这创业一年半多的时间里，不管是接触的人和事，还是听到的故事，给我的感觉就是：技术局限了我的眼界。别人挣钱的方式真的是多种多样，让你大开眼界。</p><p>反观自己创业这一年半以来，勉强维持，最大的感受就是：作为技术人，程序员，我们做人都是太好了，很多事也都是爱面子，或者抹不开面子。</p><p>在做人做事上都是谨小慎微，感觉没有太多的胆量，更别提张扬和脸皮厚了。比如：对待客户，为他们开发软件，需求定了，但是在开发过程中需求变动也属于正常，改动可以加钱，有时候，自己都不好意思开口给用户提钱。客户让加这个，就加这个，加那个就加那个，每天都细心的伺候着，我感觉人家很多外包公司干活一般，整天各种讨论客户，而客户还特别喜欢他们，找他们做。</p><p>而我们每天用心，细心的伺候着他们，报价低，他们还不一定相信你呢。感觉你价格低就是质量差，不相信你实力似的。所以，这充分说明了一个问题：<strong>装门面，吹牛逼就是比实实在在的干活更容易挣钱</strong>。这可能是社会的一种畸形，但是，<strong>更是一种信息知识不对称导致的，外行人不懂内行人的门道，他们只会看热闹</strong>。</p><p><strong>脸皮厚，吹牛逼，装点门面是热闹，也是表层，这是外行人能看懂的，所以他们信</strong>。</p><p>所以，我感觉用心做事，认真干事是必须的，但是学会脸皮厚，吹牛逼也是必要的。而用心做事，认真干事，我感觉我们技术人不差，差的正是装点门面和吹牛。</p><p>所以，我从一个创业的角度，给我们程序员和技术人的一个建议就是：<strong>我们平时除了锻炼和提高自己的技术能力之外，也应该学会强大的社交能力(脸皮不要薄，会点吹牛，学会表现自己)。你可能不创业，但是也需要，其实职场也是这样的道理</strong>。</p><p><strong>作者：Kris在路上</strong><br><strong>链接：<a href="https://mp.weixin.qq.com/s/4P2mbUGEmFwqXqRIGElv6A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/4P2mbUGEmFwqXqRIGElv6A</a></strong><br><strong>来源：微信</strong>  </p>]]></content>
+    <content type="html"><![CDATA[<p><b>我希望成为那种，即使再孤单，生活再坎坷，不管天晴天阴，不管有无人爱，都会眷恋着夕阳和晨光，捕捉生活美好瞬间的人</b></p><hr><h3 id="Ps"><a href="#Ps" class="headerlink" title="Ps"></a>Ps</h3><p><strong>从开始来深圳到处走，到现在已经没地方去，周末都是躺着，唉，不知不觉又是一个双十一到了，马上一年又过去了，1月份就过年了，我还是老样子，要努力啊，接下来的记录一下这篇文章，挺不错的</strong></p><p><strong>—End—</strong></p><hr><blockquote><p>做人就得脸皮厚点，不要太谦虚，太客气，越是脸皮越厚，越不要脸的人，才能成功，越是谨小慎微，怕这怕那，犹豫的人，越没有资源，越容易失败</p></blockquote><p>这应该是我两年前说的一句话，当时感慨是感觉自己做公众号，分享文章太保守了，还是群里和大家分享了这句话，以致于很多作者都会在自己做的不好的时候，拿出来调侃或者自嘲自己的脸皮薄，当然这也从侧面印证了这句话的正确性。</p><p>其实，自己创业也有一年半多了，在这创业一年半多的时间里，不管是接触的人和事，还是听到的故事，给我的感觉就是：技术局限了我的眼界。别人挣钱的方式真的是多种多样，让你大开眼界。</p><p>反观自己创业这一年半以来，勉强维持，最大的感受就是：作为技术人，程序员，我们做人都是太好了，很多事也都是爱面子，或者抹不开面子。</p><p>在做人做事上都是谨小慎微，感觉没有太多的胆量，更别提张扬和脸皮厚了。比如：对待客户，为他们开发软件，需求定了，但是在开发过程中需求变动也属于正常，改动可以加钱，有时候，自己都不好意思开口给用户提钱。客户让加这个，就加这个，加那个就加那个，每天都细心的伺候着，我感觉人家很多外包公司干活一般，整天各种讨论客户，而客户还特别喜欢他们，找他们做。</p><p>而我们每天用心，细心的伺候着他们，报价低，他们还不一定相信你呢。感觉你价格低就是质量差，不相信你实力似的。所以，这充分说明了一个问题：<strong>装门面，吹牛逼就是比实实在在的干活更容易挣钱</strong>。这可能是社会的一种畸形，但是，<strong>更是一种信息知识不对称导致的，外行人不懂内行人的门道，他们只会看热闹</strong>。</p><p><strong>脸皮厚，吹牛逼，装点门面是热闹，也是表层，这是外行人能看懂的，所以他们信</strong>。</p><p>所以，我感觉用心做事，认真干事是必须的，但是学会脸皮厚，吹牛逼也是必要的。而用心做事，认真干事，我感觉我们技术人不差，差的正是装点门面和吹牛。</p><p>所以，我从一个创业的角度，给我们程序员和技术人的一个建议就是：<strong>我们平时除了锻炼和提高自己的技术能力之外，也应该学会强大的社交能力(脸皮不要薄，会点吹牛，学会表现自己)。你可能不创业，但是也需要，其实职场也是这样的道理</strong>。</p><p><strong>作者：Kris在路上</strong><br><strong>链接：<a href="https://mp.weixin.qq.com/s/4P2mbUGEmFwqXqRIGElv6A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/4P2mbUGEmFwqXqRIGElv6A</a></strong><br><strong>来源：微信</strong>  </p>]]></content>
     
     <summary type="html">
     
@@ -72,9 +99,9 @@
     <link href="https://dolyw.com/2019/10/09/2019-10-09-No-Matter-How-Painful/"/>
     <id>https://dolyw.com/2019/10/09/2019-10-09-No-Matter-How-Painful/</id>
     <published>2019-10-08T16:00:00.000Z</published>
-    <updated>2020-01-09T06:45:12.131Z</updated>
+    <updated>2020-04-29T11:21:52.405Z</updated>
     
-    <content type="html"><![CDATA[<div id="dplayer-2019-10-09"></div><script>$(function(){var dp = new DPlayer({container: document.getElementById('dplayer-2019-10-09'),screenshot: false,video: {url:'https://dolyw.gitee.io/video/Fractures.mp4',pic:'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107010.jpg'}});})</script><hr><!-- <p align="center"><b>如果此刻孤单，不妨抬头看看月亮</b></p> --><h3 id="Ps-如果此刻孤单，不妨抬头看看月亮"><a href="#Ps-如果此刻孤单，不妨抬头看看月亮" class="headerlink" title="Ps 如果此刻孤单，不妨抬头看看月亮"></a>Ps 如果此刻孤单，不妨抬头看看月亮</h3><p><strong>国庆节就这样过去了，这个网站也一年了，只是兴趣随便弄来玩玩的，技术学习的东西都在笔记和Github上，这里主要是写写生活和记录一些文章吧</strong></p><p><strong>国庆去了一下杨梅坑，还是不错的，起码不是无聊的过了七天</strong></p><p><strong>国庆四号出门的吧，第一天杨梅坑，到较场尾住民宿，第二天起来看较场尾日出，再到大鹏古城，然后到官湖村，然后回了，是和 LJB 一起去的</strong></p><p><strong>国庆前一个月左右感觉整个人好颓废啊，没怎么学习，现在开始要加油了呀，努力啊，小伙子</strong></p><p><strong>要多陪父母哦</strong></p><p><strong>—End—</strong></p>]]></content>
+    <content type="html"><![CDATA[<div id="dplayer-2019-10-09"></div><script>$(function(){var dp = new DPlayer({container: document.getElementById('dplayer-2019-10-09'),screenshot: false,video: {url:'https://dolyw.gitee.io/video/Fractures.mp4',pic:'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107010.jpg'}});})</script><hr><!-- <p align="center"><b>如果此刻孤单，不妨抬头看看月亮</b></p> --><p><b>如果此刻孤单，不妨抬头看看月亮</b></p><p>国庆节就这样过去了，这个网站也一年了，只是兴趣随便弄来玩玩的，技术学习的东西都在笔记和Github上，这里主要是写写生活和记录一些文章吧，国庆去了一下杨梅坑，还是不错的，起码不是无聊的过了七天</p><p>国庆四号出门的吧，第一天杨梅坑，到较场尾住民宿，第二天起来看较场尾日出，再到大鹏古城，然后到官湖村，然后回了，是和 LJB 一起去的</p><p>国庆前一个月左右感觉整个人好颓废啊，没怎么学习，现在开始要加油了呀，努力啊，小伙子，要多陪父母哦</p><p><strong>—End—</strong></p>]]></content>
     
     <summary type="html">
     
@@ -99,13 +126,13 @@
     <link href="https://dolyw.com/2019/06/09/2019-06-09-IF-ALONE/"/>
     <id>https://dolyw.com/2019/06/09/2019-06-09-IF-ALONE/</id>
     <published>2019-06-08T16:00:00.000Z</published>
-    <updated>2019-11-11T07:53:31.223Z</updated>
+    <updated>2020-04-29T11:25:43.449Z</updated>
     
-    <content type="html"><![CDATA[<p align="center"><b>如果此刻孤单，不妨抬头看看月亮</b></p><hr><h3 id="Ps"><a href="#Ps" class="headerlink" title="Ps"></a>Ps</h3><p><strong>端午节就这样过去了，最近天气越来越来越热，胃口也不好，吃的越来越少，感觉整个人好颓废啊，一个人，也要好好吃饭呀(今天感觉又好了点，晚上吃的挺多的，有点饱，hhh)</strong></p><p><strong>接下来的记录一下这篇文章，挺不错的，要多陪父母哦</strong></p><p><strong>—End—</strong></p><hr><h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>大学同学S一毕业就结婚了，婚后不久怀了孕。本来她想等孩子满一周岁就出来工作，可是她身体底子太差，生孩子时落下一身病。老公体贴她，让她安心在家照顾孩子，不用考虑挣钱，他一个人能养家。</p><p>从此，S便一心一意在家做全职太太，再不考虑上班的事。几年后，S又生了一个二胎，更不想出来工作了。</p><p>两个孩子都上了学，S有了大把休闲的时间。她经常在朋友圈晒照片，美食，旅游，帅气的老公和两个儿子，还有宽敞明亮的家，让我们这些苦哈哈的上班族羡慕得红了眼。我偶尔和她聊天，夸奖她老公能干，一个人能养四个人，还把日子过得那么滋润。S总是表现得不以为然：“男人嘛，挣钱养家是应该的。”</p><p>当初体质虚弱的S，经过这么多年的调养，已是珠圆玉润，看着比同龄人年轻很多。她时常在朋友圈发一些文字，大多是“岁月静好，现世安稳”之类的内容。她微信上的名字干脆就叫“岁月静好”，我常常加班到深夜刷朋友圈时，一低头看到她的头像就忍不住心生悲凉</p><p>同学不同命，人与人之间的差距怎么会那么大？</p><h3 id="02"><a href="#02" class="headerlink" title="02"></a>02</h3><p>春节刚过，公司要举办一个大的商务活动，我负责采购红酒。记得S的老公就是红酒经销商，于是给她打了一个电话，要了他老公手机号。</p><p>电话接通，S的老公听我说明来意，很是兴奋。他说去年和我们老总推销过他经销的红酒，但是没有签成，这次希望我能在老总面前多美言，促成这个大订单。</p><p>我们约好时间，让他送几个样品过来供我们挑选，当然，最后签单还是要老总定夺。</p><p>S的老公把红酒样品送来时，老总正好在市里开会，让我们把红酒拿过去，等散了会一起去饭店吃饭。</p><p>很快到了老总开会的地点，老总说马上出来，让我们在车里等他一会儿。</p><p>S的老公执意不肯在车上等，他说这样不礼貌，就站在车旁等着。北方二月里的天，和冬天差不了多少，温度还很低。我怕冷不愿下车，就在车上坐着。料峭的寒风里，S的老公西装笔挺地站在外面。他和我只隔着一层车窗玻璃，脸上冻得起了一层鸡皮疙瘩都看得清清楚楚。他带着谦卑的笑容，专注地看着会议厅门口方向。</p><p>等了二十多分钟，我们老总终于出来了。S的老公赶紧抢步迎上去握手，我也下了车。我们老总握了一下他的手，有点吃惊：“你的手怎么那么凉，没在车里等我吗？”S的老公连连说：“没关系，没关系，车里太闷，正好透透气。”</p><p>我们一起去饭店吃饭，品酒。</p><h3 id="03"><a href="#03" class="headerlink" title="03"></a>03</h3><p>酒桌上，为了表示诚意，S的老公一杯接着一杯地干，把我看得心惊肉跳。我劝他少喝点，酒喝多了对身体不好。他笑，没事，已经习惯了，经常这样喝。我这个老板说得好听叫“总”，其实就是销售员，不喝酒怎么卖酒？</p><p>中途的时候，S的老公说去一下洗手间，我看他脸色十分难看，就追了出去。洗手间门口，一股刺鼻的酒味迎面而来，S的老公弯着腰在洗手池那吐，表情痛苦不堪。他看到我，强颜笑了笑，继续吐。</p><p>我默默退到门口等他。想起S秀的那些幸福，不由苦笑。她一定不知道自己老公的工作会如此辛苦，那些光鲜背后，就像他穿着单薄的春装站在寒风中等客户一样，不过是咬紧了牙关的支撑。</p><h3 id="04"><a href="#04" class="headerlink" title="04"></a>04</h3><p>青春年少时，我并不曾懂得自己那些快意活法，都是来自父母的躬身托起。我迷席慕蓉的诗，做琼瑶的粉，为赋新词强说愁，唯独没想过父母的辛苦和劳累。</p><p>婚前，我甚至在家里没有洗过衣服，更没洗过碗，婚后也整天在父母那蹭吃蹭喝，吃完抹嘴就走。曾经有年轻的同事看到我的手，无不艳羡地说，姐姐三十几岁人的手，竟如同婴儿般柔软白皙。我洋洋得意，自诩丽质天生。</p><p>记得那一天，妈妈手上的戒指摘不下来，让我帮忙。摸着妈妈的手，感觉那么那粗糙那么僵硬，心口不由一紧。低头看时，发现指尖全是裂口。大的裂口上，贴着医用胶布；小的裂口，一个个张着嘴，仿佛诉说着经年的辛劳。</p><p>我满心愧疚与感动。妈妈这双粗糙的手，为我承担了太多的累，我却一直以为那是天经地义。</p><h3 id="05"><a href="#05" class="headerlink" title="05"></a>05</h3><p><strong>众生皆苦，没有人会被命运额外眷顾。如果你活得格外轻松顺遂，一定是有人替你承担了你该承担的重量。</strong></p><p>那个替你负重前行的人，就是这个世界上最爱你的人，他（她）总是怕你太累，而把最多的重量放在自己肩上。</p><p>如果一个人对你好，绝对是命运的恩赐，而不是理所应当。哪怕是夫妻，哪怕是父母。</p><p><strong>你要学会，珍惜那个人</strong></p><p><strong>作者：苏心</strong><br><strong>来源：百度</strong>  </p>]]></content>
+    <content type="html"><![CDATA[<p align="center"><b>如果此刻孤单，不妨抬头看看月亮</b></p><hr><h3 id="Ps"><a href="#Ps" class="headerlink" title="Ps"></a>Ps</h3><p><strong>端午节就这样过去了，最近天气越来越来越热，胃口也不好，吃的越来越少，感觉整个人好颓废啊，一个人，也要好好吃饭呀(今天感觉又好了点，晚上吃的挺多的，有点饱，hhh)，接下来的记录一下这篇文章，挺不错的，要多陪父母哦</strong></p><p><strong>—End—</strong></p><hr><h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>大学同学S一毕业就结婚了，婚后不久怀了孕。本来她想等孩子满一周岁就出来工作，可是她身体底子太差，生孩子时落下一身病。老公体贴她，让她安心在家照顾孩子，不用考虑挣钱，他一个人能养家。</p><p>从此，S便一心一意在家做全职太太，再不考虑上班的事。几年后，S又生了一个二胎，更不想出来工作了。</p><p>两个孩子都上了学，S有了大把休闲的时间。她经常在朋友圈晒照片，美食，旅游，帅气的老公和两个儿子，还有宽敞明亮的家，让我们这些苦哈哈的上班族羡慕得红了眼。我偶尔和她聊天，夸奖她老公能干，一个人能养四个人，还把日子过得那么滋润。S总是表现得不以为然：“男人嘛，挣钱养家是应该的。”</p><p>当初体质虚弱的S，经过这么多年的调养，已是珠圆玉润，看着比同龄人年轻很多。她时常在朋友圈发一些文字，大多是“岁月静好，现世安稳”之类的内容。她微信上的名字干脆就叫“岁月静好”，我常常加班到深夜刷朋友圈时，一低头看到她的头像就忍不住心生悲凉</p><p>同学不同命，人与人之间的差距怎么会那么大？</p><h3 id="02"><a href="#02" class="headerlink" title="02"></a>02</h3><p>春节刚过，公司要举办一个大的商务活动，我负责采购红酒。记得S的老公就是红酒经销商，于是给她打了一个电话，要了他老公手机号。</p><p>电话接通，S的老公听我说明来意，很是兴奋。他说去年和我们老总推销过他经销的红酒，但是没有签成，这次希望我能在老总面前多美言，促成这个大订单。</p><p>我们约好时间，让他送几个样品过来供我们挑选，当然，最后签单还是要老总定夺。</p><p>S的老公把红酒样品送来时，老总正好在市里开会，让我们把红酒拿过去，等散了会一起去饭店吃饭。</p><p>很快到了老总开会的地点，老总说马上出来，让我们在车里等他一会儿。</p><p>S的老公执意不肯在车上等，他说这样不礼貌，就站在车旁等着。北方二月里的天，和冬天差不了多少，温度还很低。我怕冷不愿下车，就在车上坐着。料峭的寒风里，S的老公西装笔挺地站在外面。他和我只隔着一层车窗玻璃，脸上冻得起了一层鸡皮疙瘩都看得清清楚楚。他带着谦卑的笑容，专注地看着会议厅门口方向。</p><p>等了二十多分钟，我们老总终于出来了。S的老公赶紧抢步迎上去握手，我也下了车。我们老总握了一下他的手，有点吃惊：“你的手怎么那么凉，没在车里等我吗？”S的老公连连说：“没关系，没关系，车里太闷，正好透透气。”</p><p>我们一起去饭店吃饭，品酒。</p><h3 id="03"><a href="#03" class="headerlink" title="03"></a>03</h3><p>酒桌上，为了表示诚意，S的老公一杯接着一杯地干，把我看得心惊肉跳。我劝他少喝点，酒喝多了对身体不好。他笑，没事，已经习惯了，经常这样喝。我这个老板说得好听叫“总”，其实就是销售员，不喝酒怎么卖酒？</p><p>中途的时候，S的老公说去一下洗手间，我看他脸色十分难看，就追了出去。洗手间门口，一股刺鼻的酒味迎面而来，S的老公弯着腰在洗手池那吐，表情痛苦不堪。他看到我，强颜笑了笑，继续吐。</p><p>我默默退到门口等他。想起S秀的那些幸福，不由苦笑。她一定不知道自己老公的工作会如此辛苦，那些光鲜背后，就像他穿着单薄的春装站在寒风中等客户一样，不过是咬紧了牙关的支撑。</p><h3 id="04"><a href="#04" class="headerlink" title="04"></a>04</h3><p>青春年少时，我并不曾懂得自己那些快意活法，都是来自父母的躬身托起。我迷席慕蓉的诗，做琼瑶的粉，为赋新词强说愁，唯独没想过父母的辛苦和劳累。</p><p>婚前，我甚至在家里没有洗过衣服，更没洗过碗，婚后也整天在父母那蹭吃蹭喝，吃完抹嘴就走。曾经有年轻的同事看到我的手，无不艳羡地说，姐姐三十几岁人的手，竟如同婴儿般柔软白皙。我洋洋得意，自诩丽质天生。</p><p>记得那一天，妈妈手上的戒指摘不下来，让我帮忙。摸着妈妈的手，感觉那么那粗糙那么僵硬，心口不由一紧。低头看时，发现指尖全是裂口。大的裂口上，贴着医用胶布；小的裂口，一个个张着嘴，仿佛诉说着经年的辛劳。</p><p>我满心愧疚与感动。妈妈这双粗糙的手，为我承担了太多的累，我却一直以为那是天经地义。</p><h3 id="05"><a href="#05" class="headerlink" title="05"></a>05</h3><p><strong>众生皆苦，没有人会被命运额外眷顾。如果你活得格外轻松顺遂，一定是有人替你承担了你该承担的重量。</strong></p><p>那个替你负重前行的人，就是这个世界上最爱你的人，他（她）总是怕你太累，而把最多的重量放在自己肩上。</p><p>如果一个人对你好，绝对是命运的恩赐，而不是理所应当。哪怕是夫妻，哪怕是父母。</p><p><strong>你要学会，珍惜那个人</strong></p><p><strong>作者：苏心</strong><br><strong>来源：百度</strong>  </p>]]></content>
     
     <summary type="html">
     
-      端午节就这样过去了，最近天气越来越来越热，胃口也不好，吃的越来越少，感觉整个人好颓废啊，一个人，也要好好吃饭呀...
+      端午节就这样过去了，最近天气越来越来越热，胃口也不好，吃的越来越少，感觉整个人好颓废啊，一个人，也要好好吃饭呀(今天感觉又好了点，晚上吃的挺多的，有点饱，hhh)...
     
     </summary>
     
@@ -123,17 +150,16 @@
     <link href="https://dolyw.com/2019/05/28/2019-05-28-Domain-Renewals/"/>
     <id>https://dolyw.com/2019/05/28/2019-05-28-Domain-Renewals/</id>
     <published>2019-05-27T16:00:00.000Z</published>
-    <updated>2020-01-09T06:20:51.743Z</updated>
+    <updated>2020-04-29T11:59:01.714Z</updated>
     
-    <content type="html"><![CDATA[<hr><p><strong>今天想起来那个减20的域名续费卷6月就要到期了，不想浪费，然后想续费dolyw.com这个域名，结果发现有个满170减60的卷(ง •̀_•́)ง</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201158.jpg" alt="图片"><br><!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201158.jpg) --></p><p><strong>hhh，好开心，然后我就续费了三年，当时是开心的，现在想想，emmm，花了120，本来买个手机就破产了，( ˘•ω•˘ )</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201211.jpg" alt="图片"><br><!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201211.jpg) --></p><p><strong>算了，(๑˙ー˙๑)</strong></p><p><strong>四年后的我应该又要续费了，那时候的我是什么样子呢，翻到这个博客，会是什么心情呢，o(￣▽￣)d</strong></p><p><strong>—End—</strong></p>]]></content>
+    <content type="html"><![CDATA[<hr><p><strong>今天想起来那个减20的域名续费卷6月就要到期了</strong>，不想浪费，然后想续费 <strong>dolyw.com</strong> 这个域名，<strong>结果发现有个满170减60的卷(ง •̀_•́)ง</strong>，hhh，好开心，然后我就续费了三年，当时是开心的，现在想想，emmm，花了120，本来买个手机就破产了，( ˘•ω•˘ )，算了，(๑˙ー˙๑)，四年后的我应该又要续费了，那时候的我是什么样子呢，翻到这个博客，会是什么心情呢，o(￣▽￣)d</p><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201158.jpg) --><!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201158.jpg) --><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190529/20190529201211.jpg) --><!-- ![图片](https://res.dolyw.com/Image/Docs/20190529/20190529201211.jpg) --><p><img src="https://cdn.jsdelivr.net/gh/wliduo/CDN@master/2019/05/20190529201158.jpg" alt="图片"></p><p><strong>—End—</strong></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;今天想起来那个减20的域名续费卷6月就要到期了，不想浪费，然后想续费dolyw.com这个域名，结果发现有个满170减60的卷(ง •̀_•́)ง&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://dolyw.gitee.io/r
+&lt;p&gt;&lt;strong&gt;今天想起来那个减20的域名续费卷6月就要到期了&lt;/strong&gt;，不想浪费，然后想续费 &lt;strong&gt;dolyw.com&lt;/strong&gt; 这个域名，&lt;strong&gt;结果发现有个满170减60的卷(ง •̀_•́)ง&lt;/strong&gt;，hhh，好
       
     
     </summary>
@@ -150,9 +176,9 @@
     <link href="https://dolyw.com/2019/05/26/2019-05-26-Tencent/"/>
     <id>https://dolyw.com/2019/05/26/2019-05-26-Tencent/</id>
     <published>2019-05-25T16:00:00.000Z</published>
-    <updated>2020-01-09T07:03:48.110Z</updated>
+    <updated>2020-04-29T12:04:59.980Z</updated>
     
-    <content type="html"><![CDATA[<hr><p>昨天到参加腾讯云的技术沙龙，不管能不能学到东西，起码可以参观下新的腾讯总部(ง •̀_•́)ง</p><p>hhh，而且还有抽奖，正好缺一个键盘，一等奖是我的，虽然最后只抽到一本书( ˘•ω•˘ )</p><p>好了，可以秀一下我刚刚买的 7 Pro 的像素了，不过怎么感觉也不怎么样呢(๑˙ー˙๑)</p><p><strong>开始了</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213326.jpg" alt="图片"></p><p><strong>散场走的时候也正好下班了，不过周六可能人少点</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213342.jpg" alt="图片"></p><p><strong>最后走天桥的时候</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213339.jpg" alt="图片"></p><p>然后是今天了，今天呢，是我生日(｡･ω･｡)ﾉ♡，不过我朋友他们都没有过生日的习惯，大家都不过，也都不知道谁生日是什么时候去了，就自己知道就行了，还是有一个小小的愿望，希望自己明年这个时候有人能陪我过，因为我已经很久没吃过蛋糕了，hhh</p><p><strong>—End—</strong></p>]]></content>
+    <content type="html"><![CDATA[<hr><p>昨天到参加腾讯云的技术沙龙，不管能不能学到东西，起码可以参观下新的腾讯总部(ง •̀_•́)ง</p><p>hhh，而且还有抽奖，正好缺一个键盘，一等奖是我的，虽然最后只抽到一本书( ˘•ω•˘ )</p><p>好了，可以秀一下我刚刚买的 7 Pro 的像素了，不过怎么感觉也不怎么样呢(๑˙ー˙๑)，开始了</p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213326.jpg" alt="图片"></p><p>散场走的时候也正好下班了，不过周六可能人少点</p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213342.jpg" alt="图片"></p><p>最后走天桥的时候</p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190526/20190525213339.jpg" alt="图片"></p><p>然后是今天了，今天呢，是我生日(｡･ω･｡)ﾉ♡，不过我朋友他们都没有过生日的习惯，大家都不过，也都不知道谁生日是什么时候去了，就自己知道就行了，还是有一个小小的愿望，希望自己明年这个时候有人能陪我过，因为我已经很久没吃过蛋糕了，hhh</p><p><strong>—End—</strong></p>]]></content>
     
     <summary type="html">
     
@@ -178,17 +204,17 @@
     <link href="https://dolyw.com/2019/05/18/2019-05-18-OnePlus/"/>
     <id>https://dolyw.com/2019/05/18/2019-05-18-OnePlus/</id>
     <published>2019-05-17T16:00:00.000Z</published>
-    <updated>2020-01-09T06:20:38.703Z</updated>
+    <updated>2020-04-29T11:55:49.697Z</updated>
     
-    <content type="html"><![CDATA[<hr><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/Screenshot_20190514-100211.jpg" alt="图片"></p><p><strong>终于18号了，hhh，太激动了</strong></p><p>一开始我还觉得打算12点出门是不是早了，因为门票写的是两点开始，但是还是太激动了，11点20就出发了~</p><p>结果看到社区有人说，已经拿号了，160多号，what？你在逗我吗。。。那等我福田跑到宝安不十二点半了，火急火燎的跑过去，还好运气好，一出地铁站F口就是壹方城-2楼，直接到三楼顺电就看到了</p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125336.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_124808.jpg" alt="图片"></p><p><strong>好像是要过去拿号，然后361号，我的天。。。说好的2点开始的</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125209.jpg" alt="图片"></p><p>开始漫长的等待吧，好饿，一个人还是吃麦当劳吧，又跑到-2楼吃麦当劳，麦乐鸡快加香芋，再来一杯橙汁，嗯，快点吃完继续回去，1点半了</p><p>先叫1-200号排队，我的天</p><p>正好先去看下展览区吧，也要排队，不过人少，看起来皓月金还挺好看的，不过不能买，要等6月才有，还是算了，还是还是买我心心念念的8G + 256G版的星雾蓝吧，hhh，嗯，看起来挺不错的，开心</p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_153036.jpg" alt="图片"></p><p>找个地方坐着等吧，看下驯龙高手3可以看了，正好看这个</p><p>还好有这部电影陪伴我，开心，10年驯龙的结局，当初想去电影院的，没人一起还是就还是没去。虽然大概的剧情知道了，不过还是挺不错的</p><p>等到3点终于可以排队了，排着排着，电影都看完了，前面还是很多人，不知道我怎么坚持的，hhh</p><p>五点终于到了，终于买了，嗯，拿着小票抽奖，开心，看样子是百分之百中，有一加云耳2，Vans滑板鞋，一加双肩包</p><p>最后抽到Vans滑板鞋，不过要等发货，没有我这个鞋码了，填了个地址，撤了</p><p>累死了，最后走的时候腰酸背痛腿抽筋，–</p><p><strong>最后回来的开箱图~</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_190159.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210851.jpg" alt="图片"></p><p><strong>星雾蓝超级炫</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210915.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210947.jpg" alt="图片"></p><p><strong>还有陪伴我两年半的一加3T，hhh</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_214528.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_214554.jpg" alt="图片"></p><p><strong>—End—</strong></p>]]></content>
+    <content type="html"><![CDATA[<hr><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/Screenshot_20190514-100211.jpg) --><p><img style="width:100%;max-width:400px" src="https://dolyw.gitee.io/reader/Image/Docs/20190518/Screenshot_20190514-100211.jpg" data-action="zoom"></p><p><strong>终于18号了，hhh，太激动了</strong></p><p>一开始我还觉得打算12点出门是不是早了，因为门票写的是两点开始，但是还是太激动了，11点20就出发了~ 结果看到社区有人说，已经拿号了，160多号，what？你在逗我吗。。。那等我福田跑到宝安不十二点半了，火急火燎的跑过去，还好运气好，一出地铁站F口就是壹方城-2楼，直接到三楼顺电就看到了</p><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125336.jpg)![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_124808.jpg) --><p><img style="width:100%;max-width:400px" src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125336.jpg" data-action="zoom"><br><img style="width:100%;max-width:400px" src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_124808.jpg" data-action="zoom"></p><p><strong>好像是要过去拿号，然后361号，我的天。。。说好的2点开始的</strong></p><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125209.jpg) --><p><img style="width:100%;max-width:400px" src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_125209.jpg" data-action="zoom"></p><p>开始漫长的等待吧，好饿，一个人还是吃麦当劳吧，又跑到-2楼吃麦当劳，麦乐鸡快加香芋，再来一杯橙汁，嗯，快点吃完继续回去，1点半了，先叫1-200号排队，我的天，正好先去看下展览区吧，也要排队，不过人少，看起来皓月金还挺好看的，不过不能买，要等6月才有，还是算了，还是还是买我心心念念的8G + 256G版的星雾蓝吧，hhh，嗯，看起来挺不错的，开心</p><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_153036.jpg) --><p><img style="width:100%;max-width:400px" src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_153036.jpg" data-action="zoom"></p><p>找个地方坐着等吧，看下驯龙高手3可以看了，正好看这个，还好有这部电影陪伴我，开心，10年驯龙的结局，当初想去电影院的，没人一起还是就还是没去。虽然大概的剧情知道了，不过还是挺不错的，等到3点终于可以排队了，排着排着，电影都看完了，前面还是很多人，不知道我怎么坚持的，hhh</p><p>五点终于到了，终于买了，嗯，拿着小票抽奖，开心，看样子是百分之百中，有一加云耳2，Vans滑板鞋，一加双肩包，最后抽到Vans滑板鞋，不过要等发货，没有我这个鞋码了，填了个地址，撤了，累死了，最后走的时候腰酸背痛腿抽筋，–</p><p><strong>最后回来的开箱图~</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_190159.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210851.jpg" alt="图片"></p><p><strong>星雾蓝超级炫</strong></p><p><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210915.jpg" alt="图片"><br><img src="https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_210947.jpg" alt="图片"></p><p><strong>还有陪伴我两年半的一加3T，hhh</strong></p><!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_214528.jpg)![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/IMG_20190518_214554.jpg) --><p><img src="https://cdn.jsdelivr.net/gh/wliduo/CDN@master/2019/05/IMG_20190518_214528.jpg" alt="图片"></p><p><strong>—End—</strong></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;https://dolyw.gitee.io/reader/Image/Docs/20190518/Screenshot_20190514-100211.jpg&quot; alt=&quot;图片&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;终于18号了，hhh，太激动了
+&lt;!-- ![图片](https://dolyw.gitee.io/reader/Image/Docs/20190518/Screenshot_20190514-100211.jpg) --&gt;
+&lt;p&gt;&lt;img style=&quot;width:100%;max-width:40
       
     
     </summary>
@@ -436,33 +462,6 @@
     <summary type="html">
     
       我曾见过一个老奶奶，因为坐公交车投错了钱，本来是一块钱却放进去五块钱，她求了那公交车师傅一路。因为车上人太多了，公交车师傅一直推脱说自己没看见.....
-    
-    </summary>
-    
-      <category term="Article" scheme="https://dolyw.com/categories/Article/"/>
-    
-    
-      <category term="Article" scheme="https://dolyw.com/tags/Article/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的人生不能将就(男)</title>
-    <link href="https://dolyw.com/2018/10/13/2018-10-13-Life-Man/"/>
-    <id>https://dolyw.com/2018/10/13/2018-10-13-Life-Man/</id>
-    <published>2018-10-13T13:18:18.000Z</published>
-    <updated>2020-01-09T06:07:43.453Z</updated>
-    
-    <content type="html"><![CDATA[<hr><h3 id="18岁"><a href="#18岁" class="headerlink" title="18岁"></a>18岁</h3><p>你读了大学</p><h3 id="20岁"><a href="#20岁" class="headerlink" title="20岁"></a>20岁</h3><p>你大二结束，开始悔恨自己前两年的幼稚行为，于是开始努力</p><h3 id="22岁"><a href="#22岁" class="headerlink" title="22岁"></a>22岁</h3><p>你大学毕业了，却发现找不到一份令自己满意的工作</p><h3 id="26岁"><a href="#26岁" class="headerlink" title="26岁"></a>26岁</h3><p>你发现身边的人都结婚了，婚礼的份子钱逐年递增，春节回家，父母带你串亲戚，变成了带你去相亲看对象，见了十几个姑娘，你每次都觉得比那个她差一点</p><h3 id="28岁"><a href="#28岁" class="headerlink" title="28岁"></a>28岁</h3><p>这年你遇到了一个和你遭遇差不多的姑娘，你们有一搭没一搭的聊着，她说:你还不错，你喝了一口可乐说:你也是，你还不确定喜不喜欢她，双方家长就已经摆好了订婚宴，结婚的前一周，你和朋友出去喝酒，说不想结婚，朋友说，你就是想太多，谁不是这样过来的？</p><h3 id="29岁"><a href="#29岁" class="headerlink" title="29岁"></a>29岁</h3><p>你们终于结了婚，婚礼办的不大不小，朋友来的不多不少，攒了几年想去实现理想的钱，搭在了这一场百人的私人庙会上，婚礼进行到中间，司仪带着标准的商业化微笑对着台下的亲朋说，要不要让他们亲一个，台下的那些人跟着一起起哄，不知道为什么，你简简单单的亲了一口，两人回到一开始的站位，你小声的说了一句:我爱你，那个昨天还看不惯你倒腾模型的新娘，愣了一下说:我也爱你，你不确定她是不是对你说的，就像你不确定自己是不是对她说的一样，婚礼结束后，并没有你想象的浪漫，你听着外屋的新娘一笔一笔的算着份子钱，想着才不过两年，怎么就这样了，想着想着，洞房夜就这样睡着了</p><h3 id="30岁"><a href="#30岁" class="headerlink" title="30岁"></a>30岁</h3><p>她怀孕了，辞掉了工作，在家养胎，你在公司逐渐有了点地位，手里管着十来个人，独立负责一个项目，结婚前陪嫁的那辆二十多万的车，也变成了你一个人的独享，但你依然不敢放松，每次加班，电话那头都是抱怨和委屈，但你不能争辩什么，谁让她怀了你的孩子，在这一刻，不论是她的父母还是你的父母，都无条件的站在她这一边</p><h3 id="31岁"><a href="#31岁" class="headerlink" title="31岁"></a>31岁</h3><p>孩子出生了，前前后后连孕检带住院费花了十万块钱，不过无所谓，你看着你的孩子，怎么看怎么喜欢，高兴的仿佛这是你的新生</p><h3 id="32岁"><a href="#32岁" class="headerlink" title="32岁"></a>32岁</h3><p>这是你人生最不愿意重复的一年，平均睡眠三小时，孩子每一个小时都要闹腾一次，第二天拖着睡不醒的眼睛去上班，老板说你上班不干活，回家媳妇说你不干活，你想了半天不明白，那谁干活呢？那辆开了三年的车，成为了你真正的家，你不再抱怨路上拥挤的交通，你甚至希望再多堵车一会，回到家，你关了发动机，在车上点了一根烟，这是你每天最幸福的十分钟，车前是功名利禄，车尾是柴米油盐</p><h3 id="35岁"><a href="#35岁" class="headerlink" title="35岁"></a>35岁</h3><p>你因为身体越来越差 加班越来越少 晋升的速度也越来越缓慢 那天下班，媳妇告诉你 孩子要上幼儿园了 双语的一个月3000 你皱了皱眉头，那边就已经不耐烦了 “四单元的老王家孩子，一个月6000” “你已经这样了，你想让孩子也输？” 你没说话，回屋给媳妇转了6000块钱 这笔钱，你原本打算给自己过个生日，买个新电脑</p><h3 id="38岁"><a href="#38岁" class="headerlink" title="38岁"></a>38岁</h3><p>孩子上了一年级 老师说一年级最关键，打好基础很重要 你笑着说，是是是，老师您多照顾 新生接待的老师看着你不明事理的脸 给你指了一条明路 “课外辅导班，一个月2200”</p><h3 id="40岁"><a href="#40岁" class="headerlink" title="40岁"></a>40岁</h3><p>孩子上了三年级 老师说，三年级，最关键，承上启下很重要 你笑着说：是是是，正打算再报个补习班</p><h3 id="44岁"><a href="#44岁" class="headerlink" title="44岁"></a>44岁</h3><p>孩子上了初中 有一天回到家，她对你说 爸爸，我想学钢琴 你没什么犹豫的 你以为这些年，你已经习惯了 但那句“爸爸现在买不起”你始终说不出口 好在孩子比较懂事 她说：爸爸没事，要不我先学陶笛也可以 你看着这么懂事的孩子，却开心不起来</p><h3 id="46岁"><a href="#46岁" class="headerlink" title="46岁"></a>46岁</h3><p>孩子上了一个不好不差的高中 有一天你在开会，接到了老师的电话 电话里说你的孩子在学校打架了 叫你去一趟 你唯唯诺诺的 和那个比你还小5岁的领导请了个假 到学校又被老师训了一通 无非台词就是那一句 你们做家长的就知道工作，能不能陪陪孩子 你看着这个老师，有点可笑 好像当时说： 家长在外辛苦点 多赚点钱让孩子多补补课的和他不是一个人</p><h3 id="50岁"><a href="#50岁" class="headerlink" title="50岁"></a>50岁</h3><p>孩子上了大学 很争气，是一个一本 他学的专业你有点看不懂 你只知道工作不一定好找 而且学费还死贵 你和他深夜想聊聊 准备了半斤白酒，一碟花生米 你说着那些曾经你最讨厌的话 还是要为以后工作着想 挑个热门的专业 活着比热爱重要 你们从交流变成了争吵 你发现，你老了 老到可能都打不过这个18岁的孩子 你说不过他，只能说一句：我是你爸爸！ 孩子看着你，知道再怎么争辩都没用 这场确立你最后威严的酒局不欢而散 你听的不真切 在孩子回自己屋的路上好像叨叨了一句 “我不想活的像你一样” 怎么就哭了呢？50岁的人了 一定是酒太辣了，对不对 一定是酒太辣了</p><h3 id="55岁"><a href="#55岁" class="headerlink" title="55岁"></a>55岁</h3><p>孩子工作了，似乎有一点理解你了 但你却反了过来，你说不要妥协</p><h3 id="56岁"><a href="#56岁" class="headerlink" title="56岁"></a>56岁</h3><p>孩子也结婚了 你问他喜欢那个姑娘么 他愣了愣说：喜欢吧</p><h3 id="60岁"><a href="#60岁" class="headerlink" title="60岁"></a>60岁</h3><p>辛苦了一辈子，想出去走走 身边的那个人过了30年 你依旧分不清到底喜不喜欢 你们开始规划旅游路线 这么多年了 你们还是存在分歧，还是在争吵 某个瞬间，你觉得 这样可能也挺好 一切都准备好了 儿子说：爸妈，我工作太忙了 可以帮我照顾一下孩子么 你们退了机票，又回到了30年前</p><h3 id="70岁"><a href="#70岁" class="headerlink" title="70岁"></a>70岁</h3><p>孩子的孩子也长大了， 不用天天操心了 你下定决心说：一定要去玩一趟 可是手边的拐杖 只能支持你走到楼下的花园</p><h3 id="75岁"><a href="#75岁" class="headerlink" title="75岁"></a>75岁</h3><p>你在医院的病床上 身边聚满了人， 你迷迷糊糊的看见医生摇了摇头 周围那些人神情肃穆 你明白了，你要死掉了 你没有感到一丝害怕 你突然问自己， 我到底是什么时候死掉的呢？ 你想起来30岁的那场婚礼 原来，那时候，你就死掉了吧 依照惯例 死前的3秒， 你的大脑要走马灯 倒叙你这75个年头的一生 画面一张一张的过 1秒 2秒 两秒过去了 你面无表情的看着这两秒内的回忆 第3秒 突然你笑了 原来已经回到了15岁的那一年 你看见一个男孩 他叼着一袋牛奶， 背着书包 从另一个女孩家的阳台下跑过 那个男孩朝窗户里看了看 那是15岁的你暗恋的那个女孩子 你想不起来她长什么样子了 最后一秒你努力的回忆着 然后终于笑了出来 3秒过去了 身边的人突然间开始嚎啕大哭 你可能听不清了 你最后听到的嘈杂的声音 是一群十五六的少年 起着哄说的 答应他 答应他 答应他</p><hr>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;hr&gt;
-&lt;h3 id=&quot;18岁&quot;&gt;&lt;a href=&quot;#18岁&quot; class=&quot;headerlink&quot; title=&quot;18岁&quot;&gt;&lt;/a&gt;18岁&lt;/h3&gt;&lt;p&gt;你读了大学&lt;/p&gt;
-&lt;h3 id=&quot;20岁&quot;&gt;&lt;a href=&quot;#20岁&quot; class=&quot;headerlink&quot; titl
-      
     
     </summary>
     
