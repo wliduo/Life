@@ -93,6 +93,6 @@
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/aplist.js"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/js/index.js"></script>
   <!-- 页面点击七彩颗粒 -->
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/seed.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@1.0/assets/lib/seed.js"></script>
 </body>
 </html>

@@ -12,7 +12,7 @@ date: 2019-10-09
 
 <div id="dplayer-2019-10-09"></div>
 
-<script>$(function(){var dp = new DPlayer({container: document.getElementById('dplayer-2019-10-09'),screenshot: false,video: {url:'https://dolyw.gitee.io/video/Fractures.mp4',pic:'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107010.jpg'}});})</script>
+<script>$(function(){var dp = new DPlayer({container: document.getElementById('dplayer-2019-10-09'),screenshot: false,video: {url:'https://9ken97.coding-pages.com/Fractures.mp4',pic:'https://cdn.jsdelivr.net/gh/wliduo/CDN@master/wallpaper/201911/20191107010.jpg'}});})</script>
 
 -----
 
