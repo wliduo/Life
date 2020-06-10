@@ -92,6 +92,12 @@
   {{ live2d() }}
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/aplist.js"></script>
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/js/index.js"></script>
+  <script>
+    // 每次都提示页面不再使用
+    if (confirm("当前博客已不再使用，是否跳转到新博客")) {
+      window.location.href = 'https://blog.dolyw.com';
+    }
+  </script>
   <!-- 页面点击七彩颗粒 -->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@1.0/assets/lib/seed.js"></script>
 </body>
