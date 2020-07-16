@@ -64,10 +64,10 @@ index_with_subtitle: false
 # Value before `||` delimeter is the target link.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
-  sitemap: https://dolyw.com/go?url=https://map.dolyw.com || home
-  friend: https://dolyw.com/go?url=https://res.dolyw.com || friend
-  note: https://dolyw.com/go?url=https://note.dolyw.com || note
-  msg: https://dolyw.com/go?url=https://msg.dolyw.com || msg
+  sitemap: https://map.dolyw.com || home
+  friend: https://res.dolyw.com || friend
+  note: https://note.dolyw.com || note
+  msg: https://msg.dolyw.com || msg
   home: / || home
   archives: /archives/ || archive
   categories: /categories/ || categories
@@ -114,11 +114,11 @@ social:
   # CSDN: https://blog.csdn.net/dolyw
   # Gitee: https://gitee.com/dolyw
   # Weibo: https://weibo.com/dolyw
-  Home: https://dolyw.com/go?url=https://dolyw.com
-  Mark: https://dolyw.com/go?url=https://mark.dolyw.com
-  # Link: https://dolyw.com/go?url=https://link.dolyw.com
-  Mikutap: https://dolyw.com/go?url=https://mikutap.dolyw.com
-  Contact: https://dolyw.com/go?url=https://cv.dolyw.com
+  Home: https://dolyw.com
+  Mark: https://mark.dolyw.com
+  # Link: https://link.dolyw.com
+  Mikutap: https://mikutap.dolyw.com
+  Contact: https://cv.dolyw.com
 
 social_icons:
   enable: true
