@@ -80,7 +80,7 @@
 
   </div>
 
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/js/sagiri.min.js?v={{ theme.version }}"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/themes/hexo-theme-sagiri/source/js/sagiri.min.js?v={{ theme.version }}"></script>
 
   {% include '_third-party/search/index.swig' %}
   {% include '_third-party/seo/baidu-push.swig' %}
@@ -91,7 +91,7 @@
   {% include '_third-party/exturl.swig' %}
   {{ live2d() }}
   <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Mark@master/assets/lib/aplist.js"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/docs/js/index.js"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/wliduo/Life@master/themes/hexo-theme-sagiri/source/js/index.js"></script>
   <script>
     // 每次都提示页面不再使用
     if (confirm("当前博客已不再使用，是否跳转到新博客")) {
